@@ -1,0 +1,856 @@
+2026-01-21 11:05:31,383 - INFO - Armando computadoras para el perfil: PC orientada a juegos con presupuesto 1200000
+2026-01-21 11:05:31,383 - INFO - ====== WebDriver manager ======
+2026-01-21 11:05:32,647 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 11:05:33,215 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 11:05:33,705 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 11:05:34,822 - INFO - WebDriver version 143.0.7499.192 selected
+2026-01-21 11:05:34,827 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.192/win32/chromedriver-win32.zip
+2026-01-21 11:05:34,827 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.192/win32/chromedriver-win32.zip
+2026-01-21 11:05:35,335 - INFO - Driver downloading response is 200
+2026-01-21 11:05:35,697 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 11:05:36,329 - INFO - Driver has been saved in cache [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\143.0.7499.192]
+2026-01-21 11:05:45,115 - INFO - Se encontraron 73 componentes compatibles en la pagina.
+2026-01-21 11:05:45,116 - INFO - Seleccionando componente para tipo 'procesador' con techo de precio 264000.0
+2026-01-21 11:05:45,116 - INFO - Presupuesto restante: 1200000
+2026-01-21 11:05:47,902 - INFO - Componente seleccionado para procesador: Procesador AMD Ryzen 5 8500G 5.0GHz Turbo AM5 - $232650
+2026-01-21 11:05:48,481 - INFO - Se encontraron 6 componentes compatibles en la pagina.
+2026-01-21 11:05:48,481 - INFO - Seleccionando componente para tipo 'mother' con techo de precio 156000.0
+2026-01-21 11:05:48,481 - INFO - Presupuesto restante: 967350
+2026-01-21 11:05:50,772 - INFO - Componente seleccionado para mother: Mother ASUS PRIME A620M-K AM5 DDR5 - $125050
+2026-01-21 11:05:51,556 - INFO - Se encontraron 7 componentes compatibles en la pagina.
+2026-01-21 11:05:51,556 - INFO - Seleccionando componente para tipo 'memoria' con techo de precio 120000.0
+2026-01-21 11:05:51,556 - INFO - Presupuesto restante: 842300
+2026-01-21 11:05:53,858 - INFO - Componente seleccionado para memoria: Memoria Kingston DDR5 16GB 5600MHz KVR CL46 - $339900
+2026-01-21 11:05:54,526 - INFO - Se encontraron 14 componentes compatibles en la pagina.
+2026-01-21 11:05:54,526 - INFO - Seleccionando componente para tipo 'placa de video' con techo de precio 420000.0
+2026-01-21 11:05:54,526 - INFO - Presupuesto restante: 502400
+2026-01-21 11:05:56,801 - INFO - Componente seleccionado para placa de video: Placa de Video Zotac GeForce RTX 3050 6GB GDDR6 Twin Edge OC - $369900
+2026-01-21 11:05:57,728 - INFO - Se encontraron 20 componentes compatibles en la pagina.
+2026-01-21 11:05:57,728 - INFO - Seleccionando componente para tipo 'almacenamiento' con techo de precio 120000.0
+2026-01-21 11:05:57,728 - INFO - Presupuesto restante: 132500
+2026-01-21 11:06:00,205 - INFO - Componente seleccionado para almacenamiento: Disco Solido SSD Philips 480GB 2.5 SATA III 6Gb/s High Speed - $114670
+2026-01-21 11:06:05,114 - INFO - Se encontraron 71 componentes compatibles en la pagina.
+2026-01-21 11:06:05,114 - INFO - Seleccionando componente para tipo 'fuente' con techo de precio 72000.0
+2026-01-21 11:06:05,114 - INFO - Presupuesto restante: 17830
+2026-01-21 11:06:08,112 - INFO - Componente seleccionado para fuente: Fuente Cougar 600W 80 Plus Bronze ATLAS - $65050
+2026-01-21 11:06:32,606 - INFO - Se encontraron 154 componentes compatibles en la pagina.
+2026-01-21 11:06:32,607 - INFO - Seleccionando componente para tipo 'gabinete' con techo de precio 48000.0
+2026-01-21 11:06:32,607 - INFO - Presupuesto restante: -47220
+2026-01-21 11:06:35,488 - INFO - Componente seleccionado para gabinete: Gabinete KIT Spartan A1 + Fuente + Teclado y Mouse de Regalo - $37650
+2026-01-21 11:06:37,826 - INFO - Computadoras armadas para el perfil: PC orientada a juegos
+2026-01-21 12:40:40,644 - INFO - Armando computadoras para el perfil: PC orientada a juegos con presupuesto 1200000
+2026-01-21 12:40:40,644 - INFO - ====== WebDriver manager ======
+2026-01-21 12:40:41,898 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 12:40:42,402 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 12:40:42,883 - INFO - Driver [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-21 12:40:46,226 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-21 12:40:53,142 - INFO - Se encontraron 73 componentes compatibles en la pagina.
+2026-01-21 12:40:53,142 - INFO - Seleccionando componente para tipo 'procesador' con techo de precio 264000.0
+2026-01-21 12:40:53,142 - INFO - Presupuesto restante: 1200000
+2026-01-21 12:40:53,970 - INFO - Apareció un modal y fue cerrado.
+2026-01-21 12:40:53,970 - INFO - Componente seleccionado para procesador: Procesador AMD Ryzen 5 8400F 4.7GHz Turbo AM5 Wraith Stealth Cooler - $256750
+2026-01-21 12:40:55,152 - INFO - Se encontraron 7 componentes compatibles en la pagina.
+2026-01-21 12:40:55,152 - INFO - Seleccionando componente para tipo 'mother' con techo de precio 156000.0
+2026-01-21 12:40:55,152 - INFO - Presupuesto restante: 943250
+2026-01-21 12:40:57,491 - INFO - Componente seleccionado para mother: Mother ASUS PRIME A620M-K AM5 DDR5 - $125050
+2026-01-21 12:40:58,311 - INFO - Se encontraron 7 componentes compatibles en la pagina.
+2026-01-21 12:40:58,311 - INFO - Seleccionando componente para tipo 'memoria' con techo de precio 120000.0
+2026-01-21 12:40:58,311 - INFO - Presupuesto restante: 818200
+2026-01-21 12:40:58,311 - ERROR - No se encontraron componentes validos para el tipo 'memoria' dentro del presupuesto.
+2026-01-21 12:44:02,981 - INFO - Armando computadoras para el perfil: PC orientada a juegos con presupuesto 1200000
+2026-01-21 12:44:02,981 - INFO - ====== WebDriver manager ======
+2026-01-21 12:44:04,226 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 12:44:04,720 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 12:44:05,208 - INFO - Driver [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-21 12:44:07,848 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-21 12:44:13,841 - INFO - Se encontraron 73 componentes compatibles en la pagina.
+2026-01-21 12:44:13,841 - INFO - Seleccionando componente para tipo 'procesador' con techo de precio 264000.0
+2026-01-21 12:44:13,841 - INFO - Presupuesto restante: 1200000
+2026-01-21 12:44:16,682 - INFO - Componente seleccionado para procesador: Procesador AMD Ryzen 5 8500G 5.0GHz Turbo AM5 - $232650
+2026-01-21 12:44:17,292 - INFO - Se encontraron 7 componentes compatibles en la pagina.
+2026-01-21 12:44:17,293 - INFO - Seleccionando componente para tipo 'mother' con techo de precio 156000.0
+2026-01-21 12:44:17,293 - INFO - Presupuesto restante: 967350
+2026-01-21 12:44:19,628 - INFO - Componente seleccionado para mother: Mother ASUS PRIME A620M-K AM5 DDR5 - $125050
+2026-01-21 12:44:20,477 - INFO - Se encontraron 7 componentes compatibles en la pagina.
+2026-01-21 12:44:20,477 - INFO - Seleccionando componente para tipo 'memoria' con techo de precio 120000.0
+2026-01-21 12:44:20,477 - INFO - Presupuesto restante: 842300
+2026-01-21 12:44:20,477 - WARNING - No se encontraron componentes validos para RAM, intentando sin techo de precio.
+2026-01-21 12:44:22,797 - INFO - Componente seleccionado para memoria: Memoria Kingston DDR5 16GB 5600MHz KVR CL46 - $339900
+2026-01-21 12:44:23,514 - INFO - Se encontraron 14 componentes compatibles en la pagina.
+2026-01-21 12:44:23,514 - INFO - Seleccionando componente para tipo 'placa de video' con techo de precio 420000.0
+2026-01-21 12:44:23,514 - INFO - Presupuesto restante: 502400
+2026-01-21 12:44:25,721 - INFO - Componente seleccionado para placa de video: Placa de Video Zotac GeForce RTX 3050 6GB GDDR6 Twin Edge OC - $369900
+2026-01-21 12:44:26,643 - INFO - Se encontraron 20 componentes compatibles en la pagina.
+2026-01-21 12:44:26,644 - INFO - Seleccionando componente para tipo 'almacenamiento' con techo de precio 120000.0
+2026-01-21 12:44:26,644 - INFO - Presupuesto restante: 132500
+2026-01-21 12:44:29,080 - INFO - Componente seleccionado para almacenamiento: Disco Solido SSD Philips 480GB 2.5 SATA III 6Gb/s High Speed - $114670
+2026-01-21 12:44:33,852 - INFO - Se encontraron 71 componentes compatibles en la pagina.
+2026-01-21 12:44:33,852 - INFO - Seleccionando componente para tipo 'fuente' con techo de precio 72000.0
+2026-01-21 12:44:33,852 - INFO - Presupuesto restante: 17830
+2026-01-21 12:44:33,852 - ERROR - No se encontraron componentes validos para el tipo 'fuente' dentro del presupuesto.
+2026-01-21 12:48:51,003 - INFO - Armando computadoras para el perfil: PC orientada a juegos con presupuesto 1200000
+2026-01-21 12:48:51,003 - INFO - ====== WebDriver manager ======
+2026-01-21 12:48:52,240 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 12:48:52,737 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 12:48:53,232 - INFO - Driver [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-21 12:48:55,711 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-21 12:49:01,488 - INFO - Se encontraron 73 componentes compatibles en la pagina.
+2026-01-21 12:49:01,488 - INFO - Seleccionando componente para tipo 'procesador' con techo de precio 240000.0
+2026-01-21 12:49:01,488 - INFO - Presupuesto restante: 1200000
+2026-01-21 12:49:02,221 - INFO - Apareció un modal y fue cerrado.
+2026-01-21 12:49:02,221 - INFO - Componente seleccionado para procesador: Procesador Intel Core i5 12400F 4.4GHz Turbo Socket 1700 Alder Lake - $207500
+2026-01-21 12:49:03,218 - INFO - Se encontraron 3 componentes compatibles en la pagina.
+2026-01-21 12:49:03,218 - INFO - Seleccionando componente para tipo 'mother' con techo de precio 144000.0
+2026-01-21 12:49:03,218 - INFO - Presupuesto restante: 992500
+2026-01-21 12:49:05,558 - INFO - Componente seleccionado para mother: Mother Asrock H610M-HDV/M2 R2.0 DDR4 S1700 - $87800
+2026-01-21 12:49:06,662 - INFO - Se encontraron 15 componentes compatibles en la pagina.
+2026-01-21 12:49:06,662 - INFO - Seleccionando componente para tipo 'memoria' con techo de precio 216000.0
+2026-01-21 12:49:06,662 - INFO - Presupuesto restante: 904700
+2026-01-21 12:54:42,376 - INFO - Armando computadoras para el perfil: PC orientada a juegos con presupuesto 1200000
+2026-01-21 12:54:42,376 - INFO - ====== WebDriver manager ======
+2026-01-21 12:54:43,622 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 12:54:44,109 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 12:54:44,592 - INFO - Driver [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-21 12:54:47,421 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-21 12:54:53,397 - INFO - Se encontraron 73 componentes compatibles en la pagina.
+2026-01-21 12:54:53,397 - INFO - Seleccionando componente para tipo 'procesador' con techo de precio 240000.0
+2026-01-21 12:54:53,397 - INFO - Presupuesto restante: 1200000
+2026-01-21 12:54:54,138 - INFO - Apareció un modal y fue cerrado.
+2026-01-21 12:54:54,139 - INFO - Componente seleccionado para procesador: Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler - $230700
+2026-01-21 12:54:55,570 - INFO - Se encontraron 13 componentes compatibles en la pagina.
+2026-01-21 12:54:55,570 - INFO - Seleccionando componente para tipo 'mother' con techo de precio 144000.0
+2026-01-21 12:54:55,570 - INFO - Presupuesto restante: 969300
+2026-01-21 12:54:58,091 - INFO - Componente seleccionado para mother: Mother MSI B550M-A PRO AM4 - $116100
+2026-01-21 12:54:59,178 - INFO - Se encontraron 15 componentes compatibles en la pagina.
+2026-01-21 12:54:59,179 - INFO - Seleccionando componente para tipo 'memoria' con techo de precio 216000.0
+2026-01-21 12:54:59,179 - INFO - Presupuesto restante: 853200
+2026-01-21 12:55:01,609 - INFO - Componente seleccionado para memoria: Memoria Kingston DDR4 16GB 3200MHz KVR CL22 Low Profile - $209900
+2026-01-21 12:55:02,278 - INFO - Se encontraron 14 componentes compatibles en la pagina.
+2026-01-21 12:55:02,278 - INFO - Seleccionando componente para tipo 'placa de video' con techo de precio 384000.0
+2026-01-21 12:55:02,278 - INFO - Presupuesto restante: 643300
+2026-01-21 12:55:04,514 - INFO - Componente seleccionado para placa de video: Placa de Video Zotac GeForce RTX 3050 6GB GDDR6 Twin Edge OC - $369900
+2026-01-21 12:55:05,423 - INFO - Se encontraron 20 componentes compatibles en la pagina.
+2026-01-21 12:55:05,424 - INFO - Seleccionando componente para tipo 'almacenamiento' con techo de precio 120000.0
+2026-01-21 12:55:05,424 - INFO - Presupuesto restante: 273400
+2026-01-21 12:55:07,878 - INFO - Componente seleccionado para almacenamiento: Disco Sólido SSD Lexar 512GB NS100 550MB/s - $114100
+2026-01-21 12:55:12,913 - INFO - Se encontraron 72 componentes compatibles en la pagina.
+2026-01-21 12:55:12,913 - INFO - Seleccionando componente para tipo 'fuente' con techo de precio 60000.0
+2026-01-21 12:55:12,913 - INFO - Presupuesto restante: 159300
+2026-01-21 12:55:15,838 - INFO - Componente seleccionado para fuente: Fuente Segotep 500W 23A Cooler 120mm Black ATX-500W - $26550
+2026-01-21 12:55:21,349 - INFO - Se encontraron 1 componentes compatibles en la pagina.
+2026-01-21 12:55:21,349 - INFO - Seleccionando componente para tipo 'gabinete' con techo de precio 36000.0
+2026-01-21 12:55:21,349 - INFO - Presupuesto restante: 132750
+2026-01-21 12:55:21,349 - ERROR - No se encontraron componentes validos para el tipo 'gabinete' dentro del presupuesto.
+2026-01-21 13:05:27,271 - INFO - Armando computadoras para el perfil: PC orientada a juegos con presupuesto 1200000
+2026-01-21 13:05:27,272 - INFO - ====== WebDriver manager ======
+2026-01-21 13:05:28,510 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 13:05:28,999 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 13:05:29,486 - INFO - Driver [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-21 13:05:32,122 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-21 13:05:38,068 - INFO - Se encontraron 73 componentes compatibles en la pagina.
+2026-01-21 13:05:38,068 - INFO - Seleccionando procesador | techo=240000.0 | restante=1200000
+2026-01-21 13:05:40,868 - INFO - Componente seleccionado para procesador: Procesador AMD Ryzen 5 8500G 5.0GHz Turbo AM5 - $232650
+2026-01-21 13:05:41,478 - INFO - Se encontraron 7 componentes compatibles en la pagina.
+2026-01-21 13:05:41,478 - INFO - Seleccionando mother | techo=144000.0 | restante=967350
+2026-01-21 13:05:43,800 - INFO - Componente seleccionado para mother: Mother ASUS PRIME A620M-K AM5 DDR5 - $125050
+2026-01-21 13:05:44,680 - INFO - Se encontraron 7 componentes compatibles en la pagina.
+2026-01-21 13:05:44,680 - INFO - Seleccionando memoria | techo=216000.0 | restante=842300
+2026-01-21 13:05:44,680 - WARNING - No hay memoria dentro del techo. Buscando el más barato posible.
+2026-01-21 13:05:46,989 - INFO - Componente seleccionado para memoria: Memoria Kingston DDR5 16GB 5600MHz KVR CL46 - $339900
+2026-01-21 13:05:47,666 - INFO - Se encontraron 14 componentes compatibles en la pagina.
+2026-01-21 13:05:47,666 - INFO - Seleccionando placa de video | techo=384000.0 | restante=502400
+2026-01-21 13:05:49,876 - INFO - Componente seleccionado para placa de video: Placa de Video Zotac GeForce RTX 3050 6GB GDDR6 Twin Edge OC - $369900
+2026-01-21 13:05:50,838 - INFO - Se encontraron 20 componentes compatibles en la pagina.
+2026-01-21 13:05:50,839 - INFO - Seleccionando almacenamiento | techo=120000.0 | restante=132500
+2026-01-21 13:05:53,259 - INFO - Componente seleccionado para almacenamiento: Disco Solido SSD Patriot 480GB Burst Elite 540MB/s - $114100
+2026-01-21 13:05:58,144 - INFO - Se encontraron 71 componentes compatibles en la pagina.
+2026-01-21 13:05:58,144 - INFO - Seleccionando fuente | techo=60000.0 | restante=18400
+2026-01-21 13:05:58,144 - WARNING - No hay fuente dentro del techo. Buscando el más barato posible.
+2026-01-21 13:05:58,145 - ERROR - No se pudo seleccionar fuente. Presupuesto insuficiente.
+2026-01-21 13:16:29,731 - INFO - Armando computadoras para el perfil: PC orientada a juegos con presupuesto 1200000
+2026-01-21 13:16:29,731 - INFO - ====== WebDriver manager ======
+2026-01-21 13:16:30,984 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 13:16:31,495 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 13:16:31,976 - INFO - Driver [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-21 13:16:34,772 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-21 13:16:40,615 - INFO - Se encontraron 73 componentes compatibles para la categoria procesador.
+2026-01-21 13:16:40,615 - INFO - Seleccionando procesador | Techo=264000.0 | Restante=1200000
+2026-01-21 13:16:41,501 - INFO - Apareció un modal y fue cerrado.
+2026-01-21 13:16:41,501 - INFO - Componente seleccionado para procesador: Procesador AMD Ryzen 5 8400F 4.7GHz Turbo AM5 Wraith Stealth Cooler - $256750
+2026-01-21 13:16:42,645 - INFO - Se encontraron 6 componentes compatibles para la categoria mother.
+2026-01-21 13:16:42,645 - INFO - Seleccionando mother | Techo=156000.0 | Restante=943250
+2026-01-21 13:16:44,980 - INFO - Componente seleccionado para mother: Mother ASUS PRIME A620M-K AM5 DDR5 - $125050
+2026-01-21 13:16:45,801 - INFO - Se encontraron 7 componentes compatibles para la categoria memoria.
+2026-01-21 13:16:45,801 - INFO - Seleccionando memoria | Techo=120000.0 | Restante=818200
+2026-01-21 13:16:45,801 - WARNING - No hay memoria dentro del techo. Buscando el más barato posible.
+2026-01-21 13:16:48,119 - INFO - Componente seleccionado para memoria: Memoria Kingston DDR5 16GB 5600MHz KVR CL46 - $339900
+2026-01-21 13:16:48,801 - INFO - Se encontraron 14 componentes compatibles para la categoria placa de video.
+2026-01-21 13:16:48,801 - INFO - Seleccionando placa de video | Techo=420000.0 | Restante=478300
+2026-01-21 13:16:51,002 - INFO - Componente seleccionado para placa de video: Placa de Video Asrock Radeon RX 550 2GB GDDR5 Phantom Gaming - $89950
+2026-01-21 13:16:51,932 - INFO - Se encontraron 20 componentes compatibles para la categoria almacenamiento.
+2026-01-21 13:16:51,933 - INFO - Seleccionando almacenamiento | Techo=120000.0 | Restante=388350
+2026-01-21 13:16:54,385 - INFO - Componente seleccionado para almacenamiento: Disco Sólido SSD Lexar 512GB NS100 550MB/s - $114100
+2026-01-21 13:16:59,368 - INFO - Se encontraron 71 componentes compatibles para la categoria fuente.
+2026-01-21 13:16:59,368 - INFO - Seleccionando fuente | Techo=72000.0 | Restante=274250
+2026-01-21 13:17:02,401 - INFO - Componente seleccionado para fuente: Fuente Deepcool 650W 80 Plus Bronze PL650D ATX 3.1 PCIe 5.1 - $71700
+2026-01-21 13:17:27,377 - INFO - Se encontraron 154 componentes compatibles para la categoria gabinete.
+2026-01-21 13:17:27,377 - INFO - Seleccionando gabinete | Techo=48000.0 | Restante=202550
+2026-01-21 13:17:29,893 - INFO - Componente seleccionado para gabinete: Gabinete Antec AX20 ELITE RGB Black Mesh 4x120mm RGB Fijo Fans Vidrio Templado - $45810
+2026-01-21 13:17:32,131 - INFO - Computadora armada para el perfil: PC orientada a juegos
+2026-01-21 13:17:32,131 - INFO - ====== WebDriver manager ======
+2026-01-21 13:17:33,315 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 13:17:33,805 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 13:17:34,298 - INFO - Driver [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-21 13:17:37,119 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-21 13:17:45,561 - INFO - Se encontraron 73 componentes compatibles para la categoria procesador.
+2026-01-21 13:17:45,561 - INFO - Seleccionando procesador | Techo=264000.0 | Restante=1200000
+2026-01-21 13:17:49,570 - INFO - Componente seleccionado para procesador: Procesador AMD Ryzen 5 5600GT 4.6GHz Turbo AM4 + Wraith Stealth Cooler - $247200
+2026-01-21 13:17:50,430 - INFO - Se encontraron 13 componentes compatibles para la categoria mother.
+2026-01-21 13:17:50,430 - INFO - Seleccionando mother | Techo=156000.0 | Restante=952800
+2026-01-21 13:17:53,111 - INFO - Componente seleccionado para mother: Mother ASUS PRIME B550M-K AM4 - $132750
+2026-01-21 13:17:54,430 - INFO - Se encontraron 17 componentes compatibles para la categoria memoria.
+2026-01-21 13:17:54,430 - INFO - Seleccionando memoria | Techo=120000.0 | Restante=820050
+2026-01-21 13:17:56,778 - INFO - Componente seleccionado para memoria: Memoria Team DDR4 8GB 3200MHz T-Force Vulcan Z Grey CL16 - $109900
+2026-01-21 13:17:57,464 - INFO - Se encontraron 14 componentes compatibles para la categoria placa de video.
+2026-01-21 13:17:57,464 - INFO - Seleccionando placa de video | Techo=420000.0 | Restante=710150
+2026-01-21 13:17:59,661 - INFO - Componente seleccionado para placa de video: Placa de Video Asrock Radeon RX 550 2GB GDDR5 Phantom Gaming - $89950
+2026-01-21 13:18:00,540 - INFO - Se encontraron 20 componentes compatibles para la categoria almacenamiento.
+2026-01-21 13:18:00,540 - INFO - Seleccionando almacenamiento | Techo=120000.0 | Restante=620200
+2026-01-21 13:18:03,085 - INFO - Componente seleccionado para almacenamiento: Disco Sólido SSD Lexar 512GB NS100 550MB/s - $114100
+2026-01-21 13:18:08,606 - INFO - Se encontraron 71 componentes compatibles para la categoria fuente.
+2026-01-21 13:18:08,607 - INFO - Seleccionando fuente | Techo=72000.0 | Restante=506100
+2026-01-21 13:18:11,549 - INFO - Componente seleccionado para fuente: Fuente XYZ 650W 80 Plus Bronze ARGB Phantom - $71000
+2026-01-21 13:18:34,733 - INFO - Se encontraron 154 componentes compatibles para la categoria gabinete.
+2026-01-21 13:18:34,733 - INFO - Seleccionando gabinete | Techo=48000.0 | Restante=435100
+2026-01-21 13:18:37,618 - INFO - Componente seleccionado para gabinete: Gabinete KIT Spartan A1 + Fuente + Teclado y Mouse de Regalo - $37650
+2026-01-21 13:18:39,863 - INFO - Computadora armada para el perfil: PC orientada a juegos
+2026-01-21 13:26:12,868 - INFO - Armando computadoras para el perfil: PC orientada a juegos con presupuesto 1200000
+2026-01-21 13:26:12,869 - INFO - ====== WebDriver manager ======
+2026-01-21 13:26:14,105 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 13:26:14,590 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 13:26:15,075 - INFO - Driver [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-21 13:26:17,812 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-21 13:26:23,578 - INFO - Se encontraron 73 componentes compatibles para la categoria procesador.
+2026-01-21 13:26:23,579 - INFO - Seleccionando procesador | Techo=264000.0 | Restante=1200000
+2026-01-21 13:26:24,368 - INFO - Apareció un modal y fue cerrado.
+2026-01-21 13:26:24,368 - INFO - Componente seleccionado para procesador: Procesador AMD Ryzen 5 8400F 4.7GHz Turbo AM5 Wraith Stealth Cooler - $256750
+2026-01-21 13:26:25,481 - INFO - Se encontraron 6 componentes compatibles para la categoria mother.
+2026-01-21 13:26:25,482 - INFO - Seleccionando mother | Techo=156000.0 | Restante=943250
+2026-01-21 13:26:27,839 - INFO - Componente seleccionado para mother: Mother ASUS PRIME A620M-K AM5 DDR5 - $125050
+2026-01-21 13:26:28,631 - INFO - Se encontraron 7 componentes compatibles para la categoria memoria.
+2026-01-21 13:26:28,631 - INFO - Seleccionando memoria | Techo=120000.0 | Restante=818200
+2026-01-21 13:26:28,631 - WARNING - No hay memoria dentro del techo. Buscando el más barato posible.
+2026-01-21 13:26:30,960 - INFO - Componente seleccionado para memoria: Memoria Kingston DDR5 16GB 5600MHz KVR CL46 - $339900
+2026-01-21 13:26:31,651 - INFO - Se encontraron 14 componentes compatibles para la categoria placa de video.
+2026-01-21 13:26:31,651 - INFO - Seleccionando placa de video | Techo=420000.0 | Restante=478300
+2026-01-21 13:26:33,844 - INFO - Componente seleccionado para placa de video: Placa de Video Asrock Radeon RX 550 2GB GDDR5 Phantom Gaming - $89950
+2026-01-21 13:26:34,760 - INFO - Se encontraron 20 componentes compatibles para la categoria almacenamiento.
+2026-01-21 13:26:34,761 - INFO - Seleccionando almacenamiento | Techo=120000.0 | Restante=388350
+2026-01-21 13:26:37,225 - INFO - Componente seleccionado para almacenamiento: Disco Sólido SSD Lexar 512GB NS100 550MB/s - $114100
+2026-01-21 13:26:41,880 - INFO - Se encontraron 71 componentes compatibles para la categoria fuente.
+2026-01-21 13:26:41,880 - INFO - Seleccionando fuente | Techo=72000.0 | Restante=274250
+2026-01-21 13:26:44,794 - INFO - Componente seleccionado para fuente: Fuente Antec 650W 80 Plus Bronze ATX 3.1 PCIe 5.1 CSK650DC AR - $71150
+2026-01-21 13:27:06,023 - INFO - Se encontraron 154 componentes compatibles para la categoria gabinete.
+2026-01-21 13:27:06,023 - INFO - Seleccionando gabinete | Techo=48000.0 | Restante=203100
+2026-01-21 13:27:09,138 - INFO - Componente seleccionado para gabinete: Gabinete KIT Spartan A1 + Fuente + Teclado y Mouse de Regalo - $37650
+2026-01-21 13:27:11,402 - INFO - Computadora armada para el perfil: PC orientada a juegos
+2026-01-21 13:27:11,402 - INFO - ====== WebDriver manager ======
+2026-01-21 13:27:12,595 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 13:27:13,078 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 13:27:13,570 - INFO - Driver [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-21 13:27:16,150 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-21 13:27:22,100 - INFO - Se encontraron 73 componentes compatibles para la categoria procesador.
+2026-01-21 13:27:22,100 - INFO - Seleccionando procesador | Techo=264000.0 | Restante=1200000
+2026-01-21 13:27:22,860 - INFO - Apareció un modal y fue cerrado.
+2026-01-21 13:27:22,860 - INFO - Componente seleccionado para procesador: Procesador AMD Ryzen 5 8400F 4.7GHz Turbo AM5 Wraith Stealth Cooler - $256750
+2026-01-21 13:27:23,941 - INFO - Se encontraron 6 componentes compatibles para la categoria mother.
+2026-01-21 13:27:23,941 - INFO - Seleccionando mother | Techo=156000.0 | Restante=943250
+2026-01-21 13:27:26,296 - INFO - Componente seleccionado para mother: Mother ASUS PRIME A620M-K AM5 DDR5 - $125050
+2026-01-21 13:27:27,114 - INFO - Se encontraron 7 componentes compatibles para la categoria memoria.
+2026-01-21 13:27:27,114 - INFO - Seleccionando memoria | Techo=120000.0 | Restante=818200
+2026-01-21 13:27:27,114 - WARNING - No hay memoria dentro del techo. Buscando el más barato posible.
+2026-01-21 13:27:29,436 - INFO - Componente seleccionado para memoria: Memoria Kingston DDR5 16GB 5600MHz KVR CL46 - $339900
+2026-01-21 13:27:30,155 - INFO - Se encontraron 14 componentes compatibles para la categoria placa de video.
+2026-01-21 13:27:30,155 - INFO - Seleccionando placa de video | Techo=420000.0 | Restante=478300
+2026-01-21 13:27:32,367 - INFO - Componente seleccionado para placa de video: Placa de Video Zotac GeForce RTX 3050 6GB GDDR6 Twin Edge OC - $369900
+2026-01-21 13:27:33,304 - INFO - Se encontraron 20 componentes compatibles para la categoria almacenamiento.
+2026-01-21 13:27:33,304 - INFO - Seleccionando almacenamiento | Techo=120000.0 | Restante=108400
+2026-01-21 13:27:35,710 - INFO - Componente seleccionado para almacenamiento: Disco Solido SSD Patriot 240GB Burst Elite 540MB/s - $74500
+2026-01-21 13:27:40,527 - INFO - Se encontraron 71 componentes compatibles para la categoria fuente.
+2026-01-21 13:27:40,527 - INFO - Seleccionando fuente | Techo=72000.0 | Restante=33900
+2026-01-21 13:27:40,527 - WARNING - No hay fuente dentro del techo. Buscando el más barato posible.
+2026-01-21 13:27:40,527 - ERROR - No se pudo seleccionar fuente. Presupuesto insuficiente.
+2026-01-21 13:28:06,012 - INFO - Se encontraron 155 componentes compatibles para la categoria gabinete.
+2026-01-21 13:28:06,012 - INFO - Seleccionando gabinete | Techo=48000.0 | Restante=33900
+2026-01-21 13:28:06,013 - WARNING - No hay gabinete dentro del techo. Buscando el más barato posible.
+2026-01-21 13:28:06,013 - ERROR - No se pudo seleccionar gabinete. Presupuesto insuficiente.
+2026-01-21 13:28:09,148 - INFO - Computadora armada para el perfil: PC orientada a juegos
+2026-01-21 15:14:31,543 - INFO - Armando computadoras para el perfil: PC orientada a juegos con presupuesto 1200000
+2026-01-21 15:14:31,545 - INFO - ====== WebDriver manager ======
+2026-01-21 15:14:32,827 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 15:14:33,331 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 15:14:33,823 - INFO - Driver [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-21 15:14:36,648 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-21 15:14:42,499 - INFO - Se encontraron 73 componentes compatibles para la categoria procesador.
+2026-01-21 15:14:42,499 - INFO - Seleccionando procesador | Techo=264000.0 | Restante=1200000
+2026-01-21 15:14:45,321 - INFO - Componente seleccionado para procesador: Procesador AMD Ryzen 5 8500G 5.0GHz Turbo AM5 - $232650
+2026-01-21 15:14:45,871 - INFO - Se encontraron 6 componentes compatibles para la categoria mother.
+2026-01-21 15:14:45,871 - INFO - Seleccionando mother | Techo=161225.0 | Restante=967350
+2026-01-21 15:14:48,186 - INFO - Componente seleccionado para mother: Mother ASUS PRIME A620M-K AM5 DDR5 - $125050
+2026-01-21 15:14:49,027 - INFO - Se encontraron 7 componentes compatibles para la categoria memoria.
+2026-01-21 15:14:49,027 - INFO - Seleccionando memoria | Techo=129584.61538461539 | Restante=842300
+2026-01-21 15:14:49,027 - WARNING - No hay memoria dentro del techo. Buscando el más barato posible.
+2026-01-21 15:14:51,353 - INFO - Componente seleccionado para memoria: Memoria Kingston DDR5 16GB 5600MHz KVR CL46 - $339900
+2026-01-21 15:14:52,029 - INFO - Se encontraron 14 componentes compatibles para la categoria placa de video.
+2026-01-21 15:14:52,029 - INFO - Seleccionando placa de video | Techo=319709.0909090909 | Restante=502400
+2026-01-21 15:14:54,224 - INFO - Componente seleccionado para placa de video: Placa de Video Asrock Radeon RX 550 2GB GDDR5 Phantom Gaming - $89950
+2026-01-21 15:14:55,140 - INFO - Se encontraron 20 componentes compatibles para la categoria almacenamiento.
+2026-01-21 15:14:55,140 - INFO - Seleccionando almacenamiento | Techo=206225.0 | Restante=412450
+2026-01-21 15:14:57,614 - INFO - Componente seleccionado para almacenamiento: Disco Sólido SSD MSI 960GB Spatium S270 500MB/s - $182650
+2026-01-21 15:15:02,402 - INFO - Se encontraron 71 componentes compatibles para la categoria fuente.
+2026-01-21 15:15:02,402 - INFO - Seleccionando fuente | Techo=137880.0 | Restante=229800
+2026-01-21 15:15:06,009 - INFO - Componente seleccionado para fuente: Fuente Antec 850W 80 Plus Gold Semi Modular ATOM G850 AR - $130300
+2026-01-21 15:15:29,035 - INFO - Se encontraron 154 componentes compatibles para la categoria gabinete.
+2026-01-21 15:15:29,035 - INFO - Seleccionando gabinete | Techo=99500.0 | Restante=99500
+2026-01-21 15:15:32,766 - INFO - Componente seleccionado para gabinete: Gabinete Cougar Duoface RGB 2x140mm + 1x120mm ARGB Fans Vidrio Templado - $98600
+2026-01-21 15:15:34,997 - INFO - Computadora armada para el perfil: PC orientada a juegos
+2026-01-21 15:15:34,997 - INFO - ====== WebDriver manager ======
+2026-01-21 15:15:36,201 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 15:15:36,686 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-21 15:15:37,173 - INFO - Driver [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-21 15:15:40,038 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-21 15:15:47,374 - INFO - Se encontraron 73 componentes compatibles para la categoria procesador.
+2026-01-21 15:15:47,374 - INFO - Seleccionando procesador | Techo=264000.0 | Restante=1200000
+2026-01-21 15:15:50,070 - INFO - Componente seleccionado para procesador: Procesador AMD Ryzen 5 8500G 5.0GHz Turbo AM5 - $232650
+2026-01-21 15:15:50,697 - INFO - Se encontraron 6 componentes compatibles para la categoria mother.
+2026-01-21 15:15:50,697 - INFO - Seleccionando mother | Techo=161225.0 | Restante=967350
+2026-01-21 15:15:53,006 - INFO - Componente seleccionado para mother: Mother ASUS PRIME A620M-K AM5 DDR5 - $125050
+2026-01-21 15:15:53,844 - INFO - Se encontraron 7 componentes compatibles para la categoria memoria.
+2026-01-21 15:15:53,844 - INFO - Seleccionando memoria | Techo=129584.61538461539 | Restante=842300
+2026-01-21 15:15:53,844 - WARNING - No hay memoria dentro del techo. Buscando el más barato posible.
+2026-01-21 15:15:56,161 - INFO - Componente seleccionado para memoria: Memoria Kingston DDR5 16GB 5600MHz KVR CL46 - $339900
+2026-01-21 15:15:56,851 - INFO - Se encontraron 14 componentes compatibles para la categoria placa de video.
+2026-01-21 15:15:56,851 - INFO - Seleccionando placa de video | Techo=319709.0909090909 | Restante=502400
+2026-01-21 15:15:59,060 - INFO - Componente seleccionado para placa de video: Placa de Video Asrock Radeon RX 550 2GB GDDR5 Phantom Gaming - $89950
+2026-01-21 15:16:00,270 - INFO - Se encontraron 20 componentes compatibles para la categoria almacenamiento.
+2026-01-21 15:16:00,271 - INFO - Seleccionando almacenamiento | Techo=206225.0 | Restante=412450
+2026-01-21 15:16:02,780 - INFO - Componente seleccionado para almacenamiento: Disco Sólido SSD MSI 960GB Spatium S270 500MB/s - $182650
+2026-01-21 15:16:08,270 - INFO - Se encontraron 71 componentes compatibles para la categoria fuente.
+2026-01-21 15:16:08,270 - INFO - Seleccionando fuente | Techo=137880.0 | Restante=229800
+2026-01-21 15:16:12,374 - INFO - Componente seleccionado para fuente: Fuente XYZ 750W 80 Plus Gold ATX 3.1 PCIe 5.1 Full Modular HYPERVOLT Black - $133600
+2026-01-21 15:16:36,945 - INFO - Se encontraron 154 componentes compatibles para la categoria gabinete.
+2026-01-21 15:16:36,945 - INFO - Seleccionando gabinete | Techo=96200.0 | Restante=96200
+2026-01-21 15:16:40,762 - INFO - Componente seleccionado para gabinete: Gabinete XPG Valor Mesh Nano Black 1x120mm ARGB Fan USB-C M-ATX - $92850
+2026-01-21 15:16:43,021 - INFO - Computadora armada para el perfil: PC orientada a juegos
+2026-01-22 11:10:27,076 - INFO - Armando computadoras para el perfil: PC orientada a juegos con presupuesto 1500000
+2026-01-22 11:10:27,076 - INFO - ====== WebDriver manager ======
+2026-01-22 11:10:28,907 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-22 11:10:29,543 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-22 11:10:30,103 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-22 11:10:31,332 - INFO - WebDriver version 143.0.7499.192 selected
+2026-01-22 11:10:31,337 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.192/win32/chromedriver-win32.zip
+2026-01-22 11:10:31,337 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.192/win32/chromedriver-win32.zip
+2026-01-22 11:10:31,904 - INFO - Driver downloading response is 200
+2026-01-22 11:10:32,222 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-22 11:10:32,894 - INFO - Driver has been saved in cache [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\143.0.7499.192]
+2026-01-22 11:10:37,523 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-22 11:10:43,326 - INFO - Se encontraron 73 componentes compatibles para la categoria procesador.
+2026-01-22 11:10:43,327 - INFO - Seleccionando procesador | Techo=330000.0 | Restante=1500000
+2026-01-22 11:10:46,453 - INFO - Componente seleccionado para procesador: Procesador Intel Core Ultra 5 225 4.9Ghz Turbo Socket 1851 Arrow Lake - $318750
+2026-01-22 11:10:47,072 - INFO - Se encontraron 8 componentes compatibles para la categoria mother.
+2026-01-22 11:10:47,072 - INFO - Seleccionando mother | Techo=196875.0 | Restante=1181250
+2026-01-22 11:10:47,072 - WARNING - No hay mother dentro del techo. Buscando el más barato posible.
+2026-01-22 11:10:49,383 - INFO - Componente seleccionado para mother: Mother ASUS PRIME B860M-K LGA1851 DDR5 - $212000
+2026-01-22 11:10:50,223 - INFO - Se encontraron 6 componentes compatibles para la categoria memoria.
+2026-01-22 11:10:50,223 - INFO - Seleccionando memoria | Techo=149115.38461538462 | Restante=969250
+2026-01-22 11:10:50,223 - WARNING - No hay memoria dentro del techo. Buscando el más barato posible.
+2026-01-22 11:10:52,527 - INFO - Componente seleccionado para memoria: Memoria Kingston DDR5 16GB 5600MHz KVR CL46 - $339900
+2026-01-22 11:10:53,193 - INFO - Se encontraron 14 componentes compatibles para la categoria placa de video.
+2026-01-22 11:10:53,193 - INFO - Seleccionando placa de video | Techo=400495.45454545453 | Restante=629350
+2026-01-22 11:10:55,432 - INFO - Componente seleccionado para placa de video: Placa de Video Zotac GeForce RTX 3050 6GB GDDR6 Twin Edge OC - $369900
+2026-01-22 11:10:56,344 - INFO - Se encontraron 19 componentes compatibles para la categoria almacenamiento.
+2026-01-22 11:10:56,344 - INFO - Seleccionando almacenamiento | Techo=129725.0 | Restante=259450
+2026-01-22 11:10:58,798 - INFO - Componente seleccionado para almacenamiento: Disco Sólido SSD Lexar 512GB NS100 550MB/s - $114100
+2026-01-22 11:11:03,867 - INFO - Se encontraron 71 componentes compatibles para la categoria fuente.
+2026-01-22 11:11:03,867 - INFO - Seleccionando fuente | Techo=87210.0 | Restante=145350
+2026-01-22 11:11:07,266 - INFO - Componente seleccionado para fuente: Fuente Antec 750W 80 Plus Bronze ATX 3.1 PCIe 5.1 CSK750DC AR - $80850
+2026-01-22 11:11:31,607 - INFO - Se encontraron 155 componentes compatibles para la categoria gabinete.
+2026-01-22 11:11:31,608 - INFO - Seleccionando gabinete | Techo=64500.0 | Restante=64500
+2026-01-22 11:11:34,616 - INFO - Componente seleccionado para gabinete: Gabinete XYZ Airone 100 Mesh White 3x140mm + 3x120mm ARGB Fans Vidrio Templado - $63550
+2026-01-22 11:11:38,443 - INFO - Computadora armada para el perfil: PC orientada a juegos
+2026-01-22 11:11:38,443 - INFO - ====== WebDriver manager ======
+2026-01-22 11:11:39,824 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-22 11:11:40,389 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-22 11:11:40,941 - INFO - Driver [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-22 11:11:43,760 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-22 11:11:49,349 - INFO - Se encontraron 73 componentes compatibles para la categoria procesador.
+2026-01-22 11:11:49,349 - INFO - Seleccionando procesador | Techo=330000.0 | Restante=1500000
+2026-01-22 11:11:52,200 - INFO - Componente seleccionado para procesador: Procesador Intel Core Ultra 5 225 4.9Ghz Turbo Socket 1851 Arrow Lake - $318750
+2026-01-22 11:11:52,800 - INFO - Se encontraron 8 componentes compatibles para la categoria mother.
+2026-01-22 11:11:52,800 - INFO - Seleccionando mother | Techo=196875.0 | Restante=1181250
+2026-01-22 11:11:52,800 - WARNING - No hay mother dentro del techo. Buscando el más barato posible.
+2026-01-22 11:11:55,112 - INFO - Componente seleccionado para mother: Mother ASUS PRIME B860M-K LGA1851 DDR5 - $212000
+2026-01-22 11:11:55,971 - INFO - Se encontraron 6 componentes compatibles para la categoria memoria.
+2026-01-22 11:11:55,971 - INFO - Seleccionando memoria | Techo=149115.38461538462 | Restante=969250
+2026-01-22 11:11:55,971 - WARNING - No hay memoria dentro del techo. Buscando el más barato posible.
+2026-01-22 11:11:58,266 - INFO - Componente seleccionado para memoria: Memoria Kingston DDR5 16GB 5600MHz KVR CL46 - $339900
+2026-01-22 11:11:58,948 - INFO - Se encontraron 14 componentes compatibles para la categoria placa de video.
+2026-01-22 11:11:58,948 - INFO - Seleccionando placa de video | Techo=400495.45454545453 | Restante=629350
+2026-01-22 11:12:01,144 - INFO - Componente seleccionado para placa de video: Placa de Video Asrock Radeon RX 550 2GB GDDR5 Phantom Gaming - $89950
+2026-01-22 11:12:01,914 - INFO - Se encontraron 19 componentes compatibles para la categoria almacenamiento.
+2026-01-22 11:12:01,914 - INFO - Seleccionando almacenamiento | Techo=269700.0 | Restante=539400
+2026-01-22 11:12:04,494 - INFO - Componente seleccionado para almacenamiento: Disco Sólido SSD M.2 Verbatim 1TB Vi7000 7000MB/s NVMe PCI-e Gen4 x4 - $262500
+2026-01-22 11:12:09,068 - INFO - Se encontraron 71 componentes compatibles para la categoria fuente.
+2026-01-22 11:12:09,069 - INFO - Seleccionando fuente | Techo=166140.0 | Restante=276900
+2026-01-22 11:12:12,949 - INFO - Componente seleccionado para fuente: Fuente Asrock 850W 80 Plus Gold Steel Legend Full Modular ATX 3.1 PCIe 5.1 Cybenetics Platinum - $163300
+2026-01-22 11:12:36,388 - INFO - Se encontraron 155 componentes compatibles para la categoria gabinete.
+2026-01-22 11:12:36,388 - INFO - Seleccionando gabinete | Techo=113600.0 | Restante=113600
+2026-01-22 11:12:40,227 - INFO - Componente seleccionado para gabinete: Gabinete DeepCool CH270 Digital Vertical USB-C - $113450
+2026-01-22 11:12:42,502 - INFO - Computadora armada para el perfil: PC orientada a juegos
+2026-01-22 11:12:42,502 - INFO - Armando computadoras para el perfil: PC de oficina / estudio con presupuesto 1000000
+2026-01-22 11:12:42,502 - INFO - ====== WebDriver manager ======
+2026-01-22 11:12:43,851 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-22 11:12:44,389 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-22 11:12:44,930 - INFO - Driver [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-22 11:12:47,662 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-22 11:12:53,619 - INFO - Se encontraron 73 componentes compatibles para la categoria procesador.
+2026-01-22 11:12:53,619 - INFO - Seleccionando procesador | Techo=300000.0 | Restante=1000000
+2026-01-22 11:12:56,591 - INFO - Componente seleccionado para procesador: Procesador AMD Ryzen 7 5700G 4.6GHz Turbo AM4 + Wraith Stealth Cooler - $287650
+2026-01-22 11:12:57,356 - INFO - Se encontraron 13 componentes compatibles para la categoria mother.
+2026-01-22 11:12:57,356 - INFO - Seleccionando mother | Techo=183175.71428571432 | Restante=712350
+2026-01-22 11:12:59,870 - INFO - Componente seleccionado para mother: Mother ASUS PRIME B550M-K AM4 - $132750
+2026-01-22 11:13:01,124 - INFO - Se encontraron 17 componentes compatibles para la categoria memoria.
+2026-01-22 11:13:01,124 - INFO - Seleccionando memoria | Techo=167192.3076923077 | Restante=579600
+2026-01-22 11:13:03,492 - INFO - Componente seleccionado para memoria: Memoria Patriot Viper DDR4 8GB 3200MHz Steel CL16 - $111900
+2026-01-22 11:13:04,220 - INFO - Se encontraron 14 componentes compatibles para la categoria placa de video.
+2026-01-22 11:13:04,220 - INFO - Seleccionando placa de video | Techo=0.0 | Restante=467700
+2026-01-22 11:13:04,220 - WARNING - No hay placa de video dentro del techo. Buscando el más barato posible.
+2026-01-22 11:13:06,427 - INFO - Componente seleccionado para placa de video: Placa de Video Asrock Radeon RX 550 2GB GDDR5 Phantom Gaming - $89950
+2026-01-22 11:13:07,239 - INFO - Se encontraron 19 componentes compatibles para la categoria almacenamiento.
+2026-01-22 11:13:07,239 - INFO - Seleccionando almacenamiento | Techo=153141.8918918919 | Restante=377750
+2026-01-22 11:13:09,662 - INFO - Componente seleccionado para almacenamiento: Disco Sólido SSD Lexar 512GB NS100 550MB/s - $114100
+2026-01-22 11:13:14,467 - INFO - Se encontraron 71 componentes compatibles para la categoria fuente.
+2026-01-22 11:13:14,467 - INFO - Seleccionando fuente | Techo=143809.0909090909 | Restante=263650
+2026-01-22 11:13:18,022 - INFO - Componente seleccionado para fuente: Fuente XYZ 750W 80 Plus Gold ATX 3.1 PCIe 5.1 Full Modular HYPERVOLT White - $138350
+2026-01-22 11:13:42,214 - INFO - Se encontraron 155 componentes compatibles para la categoria gabinete.
+2026-01-22 11:13:42,214 - INFO - Seleccionando gabinete | Techo=125300.0 | Restante=125300
+2026-01-22 11:13:46,213 - INFO - Componente seleccionado para gabinete: Gabinete XYZ Aurorax 100 PRO Black 3x120mm ARGB Fans LCD Display USB-C Vidrio Templado - $123650
+2026-01-22 11:13:48,506 - INFO - Computadora armada para el perfil: PC de oficina / estudio
+2026-01-22 11:13:48,506 - INFO - Armando computadoras para el perfil: Trabajo pesado / render / edición con presupuesto 800000
+2026-01-22 11:13:48,506 - INFO - ====== WebDriver manager ======
+2026-01-22 11:13:49,854 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-22 11:13:50,390 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-22 11:13:50,930 - INFO - Driver [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-22 11:13:53,634 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-22 11:13:59,534 - INFO - Se encontraron 73 componentes compatibles para la categoria procesador.
+2026-01-22 11:13:59,534 - INFO - Seleccionando procesador | Techo=240000.0 | Restante=800000
+2026-01-22 11:14:00,300 - INFO - Apareció un modal y fue cerrado.
+2026-01-22 11:14:00,301 - INFO - Componente seleccionado para procesador: Procesador Intel Core i5 12400F 4.4GHz Turbo Socket 1700 Alder Lake - $207500
+2026-01-22 11:14:01,280 - INFO - Se encontraron 3 componentes compatibles para la categoria mother.
+2026-01-22 11:14:01,280 - INFO - Seleccionando mother | Techo=126964.28571428572 | Restante=592500
+2026-01-22 11:14:03,719 - INFO - Componente seleccionado para mother: Mother Asrock H610M-HDV/M2 R2.0 DDR4 S1700 - $87800
+2026-01-22 11:14:04,846 - INFO - Se encontraron 15 componentes compatibles para la categoria memoria.
+2026-01-22 11:14:04,846 - INFO - Seleccionando memoria | Techo=137645.45454545453 | Restante=504700
+2026-01-22 11:14:07,191 - INFO - Componente seleccionado para memoria: Memoria Team DDR4 8GB 3200Mhz Vulcan ASUS TUF Alliance CL16 - $109900
+2026-01-22 11:14:07,983 - INFO - Se encontraron 14 componentes compatibles para la categoria placa de video.
+2026-01-22 11:14:07,983 - INFO - Seleccionando placa de video | Techo=246750.0 | Restante=394800
+2026-01-22 11:14:10,192 - INFO - Componente seleccionado para placa de video: Placa de Video Asrock Radeon RX 550 2GB GDDR5 Phantom Gaming - $89950
+2026-01-22 11:14:11,899 - INFO - Se encontraron 19 componentes compatibles para la categoria almacenamiento.
+2026-01-22 11:14:11,899 - INFO - Seleccionando almacenamiento | Techo=203233.33333333334 | Restante=304850
+2026-01-22 11:14:14,580 - INFO - Componente seleccionado para almacenamiento: Disco Sólido SSD MSI 960GB Spatium S270 500MB/s - $182650
+2026-01-22 11:14:19,905 - INFO - Se encontraron 71 componentes compatibles para la categoria fuente.
+2026-01-22 11:14:19,905 - INFO - Seleccionando fuente | Techo=73320.0 | Restante=122200
+2026-01-22 11:14:22,899 - INFO - Componente seleccionado para fuente: Fuente XYZ 650W 80 Plus Bronze ARGB Phantom - $71000
+2026-01-22 11:14:47,329 - INFO - Se encontraron 155 componentes compatibles para la categoria gabinete.
+2026-01-22 11:14:47,329 - INFO - Seleccionando gabinete | Techo=51200.0 | Restante=51200
+2026-01-22 11:14:50,117 - INFO - Componente seleccionado para gabinete: Gabinete Antec AX26 RGB Elite Black 4x120mm Vidrio Templado - $46500
+2026-01-22 11:14:52,353 - INFO - Computadora armada para el perfil: Trabajo pesado / render / edición
+2026-01-22 11:16:27,564 - INFO - Armando computadoras para el perfil: PC orientada a juegos con presupuesto 600000
+2026-01-22 11:16:27,564 - INFO - ====== WebDriver manager ======
+2026-01-22 11:16:28,986 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-22 11:16:29,529 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-22 11:16:30,089 - INFO - Driver [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-22 11:16:32,779 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-22 11:16:40,478 - INFO - Se encontraron 73 componentes compatibles para la categoria procesador.
+2026-01-22 11:16:40,478 - INFO - Seleccionando procesador | Techo=132000.0 | Restante=600000
+2026-01-22 11:16:41,680 - INFO - Apareció un modal y fue cerrado.
+2026-01-22 11:16:41,680 - INFO - Componente seleccionado para procesador: Procesador AMD Ryzen 3 4100 + Wraith Stealth Cooler AM4 - $100450
+2026-01-22 11:16:43,246 - INFO - Se encontraron 13 componentes compatibles para la categoria mother.
+2026-01-22 11:16:43,246 - INFO - Seleccionando mother | Techo=83258.33333333333 | Restante=499550
+2026-01-22 11:16:45,968 - INFO - Componente seleccionado para mother: Mother ASUS PRIME A520M-K DDR4 AM4 - $83200
+2026-01-22 11:16:47,145 - INFO - Se encontraron 15 componentes compatibles para la categoria memoria.
+2026-01-22 11:16:47,145 - INFO - Seleccionando memoria | Techo=64053.846153846156 | Restante=416350
+2026-01-22 11:16:47,145 - WARNING - No hay memoria dentro del techo. Buscando el más barato posible.
+2026-01-22 11:16:49,481 - INFO - Componente seleccionado para memoria: Memoria Hiksemi DDR4 8GB 3200MHz Armor Black - $97650
+2026-01-22 11:16:50,218 - INFO - Se encontraron 14 componentes compatibles para la categoria placa de video.
+2026-01-22 11:16:50,218 - INFO - Seleccionando placa de video | Techo=202809.0909090909 | Restante=318700
+2026-01-22 11:16:52,427 - INFO - Componente seleccionado para placa de video: Placa de Video Asrock Radeon RX 550 2GB GDDR5 Phantom Gaming - $89950
+2026-01-22 11:16:53,288 - INFO - Se encontraron 19 componentes compatibles para la categoria almacenamiento.
+2026-01-22 11:16:53,288 - INFO - Seleccionando almacenamiento | Techo=114375.0 | Restante=228750
+2026-01-22 11:16:55,780 - INFO - Componente seleccionado para almacenamiento: Disco Sólido SSD Lexar 512GB NS100 550MB/s - $114100
+2026-01-22 11:17:00,829 - INFO - Se encontraron 71 componentes compatibles para la categoria fuente.
+2026-01-22 11:17:00,830 - INFO - Seleccionando fuente | Techo=68790.0 | Restante=114650
+2026-01-22 11:17:03,965 - INFO - Componente seleccionado para fuente: Fuente Cougar 600W 80 Plus Bronze ATLAS - $65050
+2026-01-22 11:17:29,356 - INFO - Se encontraron 155 componentes compatibles para la categoria gabinete.
+2026-01-22 11:17:29,356 - INFO - Seleccionando gabinete | Techo=49600.0 | Restante=49600
+2026-01-22 11:17:32,008 - INFO - Componente seleccionado para gabinete: Gabinete KIT Spartan A1 + Fuente + Teclado y Mouse de Regalo - $37650
+2026-01-22 11:17:34,263 - INFO - Computadora armada para el perfil: PC orientada a juegos
+2026-01-22 11:18:10,205 - INFO - Armando computadoras para el perfil: PC orientada a juegos con presupuesto 600000
+2026-01-22 11:18:10,205 - INFO - ====== WebDriver manager ======
+2026-01-22 11:18:11,682 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-22 11:18:12,244 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-22 11:18:12,887 - INFO - Driver [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-22 11:18:15,521 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-22 11:18:21,511 - INFO - Se encontraron 73 componentes compatibles para la categoria procesador.
+2026-01-22 11:18:21,511 - INFO - Seleccionando procesador | Techo=132000.0 | Restante=600000
+2026-01-22 11:18:22,291 - INFO - Apareció un modal y fue cerrado.
+2026-01-22 11:18:22,291 - INFO - Componente seleccionado para procesador: Procesador AMD Ryzen 5 4500 + Wraith Stealth Cooler AM4 - $122350
+2026-01-22 11:18:23,723 - INFO - Se encontraron 13 componentes compatibles para la categoria mother.
+2026-01-22 11:18:23,723 - INFO - Seleccionando mother | Techo=79608.33333333333 | Restante=477650
+2026-01-22 11:18:26,083 - INFO - Componente seleccionado para mother: Mother Asrock A520M-HDV AM4 - $78800
+2026-01-22 11:18:27,229 - INFO - Se encontraron 15 componentes compatibles para la categoria memoria.
+2026-01-22 11:18:27,229 - INFO - Seleccionando memoria | Techo=61361.53846153847 | Restante=398850
+2026-01-22 11:18:27,230 - WARNING - No hay memoria dentro del techo. Buscando el más barato posible.
+2026-01-22 11:18:29,603 - INFO - Componente seleccionado para memoria: Memoria Hiksemi DDR4 8GB 3200MHz Armor Black - $97650
+2026-01-22 11:18:30,307 - INFO - Se encontraron 14 componentes compatibles para la categoria placa de video.
+2026-01-22 11:18:30,307 - INFO - Seleccionando placa de video | Techo=191672.72727272726 | Restante=301200
+2026-01-22 11:18:32,505 - INFO - Componente seleccionado para placa de video: Placa de Video Asrock Radeon RX 550 2GB GDDR5 Phantom Gaming - $89950
+2026-01-22 11:18:33,407 - INFO - Se encontraron 19 componentes compatibles para la categoria almacenamiento.
+2026-01-22 11:18:33,407 - INFO - Seleccionando almacenamiento | Techo=105625.0 | Restante=211250
+2026-01-22 11:18:35,851 - INFO - Componente seleccionado para almacenamiento: Disco Solido SSD Patriot 240GB Burst Elite 540MB/s - $74500
+2026-01-22 11:18:40,715 - INFO - Se encontraron 71 componentes compatibles para la categoria fuente.
+2026-01-22 11:18:40,716 - INFO - Seleccionando fuente | Techo=82050.0 | Restante=136750
+2026-01-22 11:18:43,546 - INFO - Componente seleccionado para fuente: Fuente Thermaltake Smart BX1 650W RGB 80 Plus Bronze - $76300
+2026-01-22 11:19:09,512 - INFO - Se encontraron 155 componentes compatibles para la categoria gabinete.
+2026-01-22 11:19:09,512 - INFO - Seleccionando gabinete | Techo=60450.0 | Restante=60450
+2026-01-22 11:19:12,744 - INFO - Componente seleccionado para gabinete: Gabinete Antec AX65 ELITE ARGB Black Mesh 4x120mm ARGB Fans Vidrio Templado - $55600
+2026-01-22 11:19:14,997 - INFO - Computadora armada para el perfil: PC orientada a juegos
+2026-01-22 11:27:45,337 - INFO - ================ Armando computadoras para el perfil: PC orientada a juegos con presupuesto 1500000 =================
+2026-01-22 11:27:45,338 - INFO - ====== WebDriver manager ======
+2026-01-22 11:27:47,711 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-22 11:27:48,295 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-22 11:27:48,849 - INFO - Driver [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-22 11:27:52,666 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-22 11:27:58,783 - INFO - Se encontraron 73 componentes compatibles para la categoria procesador.
+2026-01-22 11:27:58,783 - INFO - Seleccionando procesador | Techo=330000.0 | Restante=1500000
+2026-01-22 11:28:01,892 - INFO - Componente seleccionado para procesador: Procesador Intel Core i5 12400 4.4GHz Turbo Socket 1700 Alder Lake - $308050
+2026-01-22 11:28:02,334 - INFO - Se encontraron 3 componentes compatibles para la categoria mother.
+2026-01-22 11:28:02,334 - INFO - Seleccionando mother | Techo=198658.3333333333 | Restante=1191950
+2026-01-22 11:28:04,802 - INFO - Componente seleccionado para mother: Mother Asrock H610M-HDV/M2+ DDR5 S1700 - $98850
+2026-01-22 11:28:05,665 - INFO - Se encontraron 7 componentes compatibles para la categoria memoria.
+2026-01-22 11:28:05,665 - INFO - Seleccionando memoria | Techo=168169.23076923078 | Restante=1093100
+2026-01-22 11:28:05,665 - WARNING - No hay memoria dentro del techo. Buscando el más barato posible.
+2026-01-22 11:28:07,997 - INFO - Componente seleccionado para memoria: Memoria Kingston DDR5 16GB 5600MHz KVR CL46 - $339900
+2026-01-22 11:28:08,667 - INFO - Se encontraron 14 componentes compatibles para la categoria placa de video.
+2026-01-22 11:28:08,667 - INFO - Seleccionando placa de video | Techo=479309.0909090909 | Restante=753200
+2026-01-22 11:28:10,860 - INFO - Componente seleccionado para placa de video: Placa de Video Asrock Radeon RX 550 2GB GDDR5 Phantom Gaming - $89950
+2026-01-22 11:28:11,781 - INFO - Se encontraron 19 componentes compatibles para la categoria almacenamiento.
+2026-01-22 11:28:11,781 - INFO - Seleccionando almacenamiento | Techo=331625.0 | Restante=663250
+2026-01-22 11:28:14,370 - INFO - Componente seleccionado para almacenamiento: Disco Solido SSD M.2 Team 1TB MP44Q 7000MB/s NVMe Gen4 PCI-E x4 - $263100
+2026-01-22 11:28:19,143 - INFO - Se encontraron 71 componentes compatibles para la categoria fuente.
+2026-01-22 11:28:19,143 - INFO - Seleccionando fuente | Techo=240090.0 | Restante=400150
+2026-01-22 11:28:23,345 - INFO - Componente seleccionado para fuente: Fuente Corsair 850W 80 Plus Gold RM850X SHIFT Full Modular ATX 3.1 PCIe 5.1 - $236560
+2026-01-22 11:28:47,837 - INFO - Se encontraron 155 componentes compatibles para la categoria gabinete.
+2026-01-22 11:28:47,837 - INFO - Seleccionando gabinete | Techo=163590.0 | Restante=163590
+2026-01-22 11:28:53,541 - INFO - Componente seleccionado para gabinete: Gabinete Lian Li Lancool 217 INF 2x170mm ARGB Fans Mirror USB-C White - $162250
+2026-01-22 11:28:55,793 - INFO - ================ Computadora armada para el perfil: PC orientada a juegos =================
+2026-01-22 11:28:55,793 - INFO - ====== WebDriver manager ======
+2026-01-22 11:28:57,539 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-22 11:28:58,119 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-22 11:28:58,669 - INFO - Driver [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-22 11:29:01,385 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-22 11:29:09,795 - INFO - Se encontraron 73 componentes compatibles para la categoria procesador.
+2026-01-22 11:29:09,795 - INFO - Seleccionando procesador | Techo=330000.0 | Restante=1500000
+2026-01-22 11:29:13,060 - INFO - Componente seleccionado para procesador: Procesador AMD Ryzen 5 8600G 5.0GHz AM5 - $291950
+2026-01-22 11:29:13,774 - INFO - Se encontraron 6 componentes compatibles para la categoria mother.
+2026-01-22 11:29:13,774 - INFO - Seleccionando mother | Techo=201341.66666666666 | Restante=1208050
+2026-01-22 11:29:16,264 - INFO - Componente seleccionado para mother: Mother ASUS PRIME A620M-K AM5 DDR5 - $125050
+2026-01-22 11:29:17,240 - INFO - Se encontraron 7 componentes compatibles para la categoria memoria.
+2026-01-22 11:29:17,241 - INFO - Seleccionando memoria | Techo=166615.38461538462 | Restante=1083000
+2026-01-22 11:29:17,241 - WARNING - No hay memoria dentro del techo. Buscando el más barato posible.
+2026-01-22 11:29:19,631 - INFO - Componente seleccionado para memoria: Memoria Kingston DDR5 16GB 5600MHz KVR CL46 - $339900
+2026-01-22 11:29:20,400 - INFO - Se encontraron 14 componentes compatibles para la categoria placa de video.
+2026-01-22 11:29:20,400 - INFO - Seleccionando placa de video | Techo=472881.8181818182 | Restante=743100
+2026-01-22 11:29:22,630 - INFO - Componente seleccionado para placa de video: Placa de Video Zotac GeForce RTX 3050 6GB GDDR6 Twin Edge OC - $369900
+2026-01-22 11:29:23,594 - INFO - Se encontraron 19 componentes compatibles para la categoria almacenamiento.
+2026-01-22 11:29:23,594 - INFO - Seleccionando almacenamiento | Techo=186600.0 | Restante=373200
+2026-01-22 11:29:26,089 - INFO - Componente seleccionado para almacenamiento: Disco Sólido SSD MSI 960GB Spatium S270 500MB/s - $182650
+2026-01-22 11:29:31,328 - INFO - Se encontraron 71 componentes compatibles para la categoria fuente.
+2026-01-22 11:29:31,328 - INFO - Seleccionando fuente | Techo=114330.0 | Restante=190550
+2026-01-22 11:29:35,179 - INFO - Componente seleccionado para fuente: Fuente ASUS PRIME 650W 80 Plus Bronze Black - $109600
+2026-01-22 11:30:02,092 - INFO - Se encontraron 155 componentes compatibles para la categoria gabinete.
+2026-01-22 11:30:02,092 - INFO - Seleccionando gabinete | Techo=80950.0 | Restante=80950
+2026-01-22 11:30:06,134 - INFO - Componente seleccionado para gabinete: Gabinete XYZ Titanium Lite Black 6x120mm ARGB Fans Vidrio Templado - $74250
+2026-01-22 11:30:08,383 - INFO - ================ Computadora armada para el perfil: PC orientada a juegos =================
+2026-01-22 11:37:55,270 - INFO - ================ Armando computadoras para el perfil: PC orientada a juegos con presupuesto 1231231 =================
+2026-01-22 11:37:55,271 - INFO - ====== WebDriver manager ======
+2026-01-22 11:37:57,024 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-22 11:37:57,587 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-22 11:37:58,135 - INFO - Driver [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-22 11:38:01,028 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-22 11:38:06,987 - INFO - Se encontraron 73 componentes compatibles para la categoria procesador.
+2026-01-22 11:38:06,987 - INFO - Seleccionando procesador | Techo=270870.82 | Restante=1231231
+2026-01-22 11:38:09,805 - INFO - Componente seleccionado para procesador: Procesador AMD Ryzen 5 5600GT 4.6GHz Turbo AM4 + Wraith Stealth Cooler - $244700
+2026-01-22 11:38:10,634 - INFO - Se encontraron 13 componentes compatibles para la categoria mother.
+2026-01-22 11:38:10,634 - INFO - Seleccionando mother | Techo=164421.8333333333 | Restante=986531
+2026-01-22 11:38:13,434 - INFO - Componente seleccionado para mother: Mother ASUS TUF A520M-PLUS WIFI AM4 - $161450
+2026-01-22 11:38:14,823 - INFO - Se encontraron 17 componentes compatibles para la categoria memoria.
+2026-01-22 11:38:14,823 - INFO - Seleccionando memoria | Techo=126935.53846153847 | Restante=825081
+2026-01-22 11:38:17,208 - INFO - Componente seleccionado para memoria: Memoria Patriot Viper DDR4 8GB 3200MHz Steel CL16 - $110750
+2026-01-22 11:38:17,900 - INFO - Se encontraron 14 componentes compatibles para la categoria placa de video.
+2026-01-22 11:38:17,900 - INFO - Seleccionando placa de video | Techo=454574.2727272727 | Restante=714331
+2026-01-22 11:38:20,111 - INFO - Componente seleccionado para placa de video: Placa de Video Zotac GeForce RTX 3050 6GB GDDR6 Twin Edge OC - $369900
+2026-01-22 11:38:20,930 - INFO - Se encontraron 19 componentes compatibles para la categoria almacenamiento.
+2026-01-22 11:38:20,930 - INFO - Seleccionando almacenamiento | Techo=172215.5 | Restante=344431
+2026-01-22 11:38:23,342 - INFO - Componente seleccionado para almacenamiento: Disco Solido SSD Patriot 480GB Burst Elite 540MB/s - $112950
+2026-01-22 11:38:28,064 - INFO - Se encontraron 71 componentes compatibles para la categoria fuente.
+2026-01-22 11:38:28,064 - INFO - Seleccionando fuente | Techo=138888.6 | Restante=231481
+2026-01-22 11:38:31,567 - INFO - Componente seleccionado para fuente: Fuente XYZ 750W 80 Plus Gold ATX 3.1 PCIe 5.1 Full Modular HYPERVOLT White - $138350
+2026-01-22 11:38:55,319 - INFO - Se encontraron 155 componentes compatibles para la categoria gabinete.
+2026-01-22 11:38:55,319 - INFO - Seleccionando gabinete | Techo=93131.0 | Restante=93131
+2026-01-22 11:38:58,986 - INFO - Componente seleccionado para gabinete: Gabinete XPG Valor Mesh Nano Black 1x120mm ARGB Fan USB-C M-ATX - $92850
+2026-01-22 11:39:01,210 - INFO - ================ Computadora armada para el perfil: PC orientada a juegos =================
+2026-01-26 11:24:59,790 - INFO - ================ Armando computadoras para el perfil: PC orientada a juegos con presupuesto 500000 =================
+2026-01-26 11:24:59,793 - INFO - ====== WebDriver manager ======
+2026-01-26 11:25:13,241 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-26 11:25:13,927 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-26 11:25:14,470 - INFO - There is no [win64] chromedriver "144.0.7559.96" for browser google-chrome "144.0.7559" in cache
+2026-01-26 11:25:14,470 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-26 11:25:15,699 - INFO - WebDriver version 144.0.7559.96 selected
+2026-01-26 11:25:15,704 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.96/win32/chromedriver-win32.zip
+2026-01-26 11:25:15,704 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.96/win32/chromedriver-win32.zip
+2026-01-26 11:25:16,260 - INFO - Driver downloading response is 200
+2026-01-26 11:25:16,667 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-26 11:25:17,339 - INFO - Driver has been saved in cache [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\144.0.7559.96]
+2026-01-26 11:25:34,429 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-26 11:25:40,473 - INFO - Se encontraron 73 componentes compatibles para la categoria procesador.
+2026-01-26 11:25:40,473 - INFO - Seleccionando procesador | Techo=110000.0 | Restante=500000
+2026-01-26 11:25:43,358 - INFO - Componente seleccionado para procesador: Procesador AMD Ryzen 5 3400G 4.2GHz Turbo + Radeon Vega 11 AM4 Wraith Spire Cooler 4.2GHz Turbo + Radeon Vega 11 AM4 Wraith Spire Cooler - $106450
+2026-01-26 11:25:45,206 - INFO - Se encontraron 9 componentes compatibles para la categoria mother.
+2026-01-26 11:25:45,206 - INFO - Seleccionando mother | Techo=65591.66666666666 | Restante=393550
+2026-01-26 11:25:45,206 - WARNING - No hay mother dentro del techo. Buscando el más barato posible.
+2026-01-26 11:25:47,825 - INFO - Componente seleccionado para mother: Mother Asrock A520M-HDV AM4 - $78250
+2026-01-26 11:25:49,001 - INFO - Se encontraron 13 componentes compatibles para la categoria memoria.
+2026-01-26 11:25:49,001 - INFO - Seleccionando memoria | Techo=48507.69230769231 | Restante=315300
+2026-01-26 11:25:49,001 - WARNING - No hay memoria dentro del techo. Buscando el más barato posible.
+2026-01-26 11:25:51,349 - INFO - Componente seleccionado para memoria: Memoria Kingston DDR4 8GB 3200MHz CL22 KVR32N22S6/8 - $103550
+2026-01-26 11:25:52,958 - INFO - Se encontraron 29 componentes compatibles para la categoria placa de video.
+2026-01-26 11:25:52,958 - INFO - Seleccionando placa de video | Techo=134750.0 | Restante=211750
+2026-01-26 11:25:55,207 - INFO - Componente seleccionado para placa de video: Placa de Video Asrock Radeon RX 550 2GB GDDR5 Phantom Gaming - $87800
+2026-01-26 11:25:55,882 - INFO - Se encontraron 15 componentes compatibles para la categoria almacenamiento.
+2026-01-26 11:25:55,882 - INFO - Seleccionando almacenamiento | Techo=61975.0 | Restante=123950
+2026-01-26 11:25:55,882 - WARNING - No hay almacenamiento dentro del techo. Buscando el más barato posible.
+2026-01-26 11:25:58,393 - INFO - Componente seleccionado para almacenamiento: Disco Solido SSD Patriot 480GB Burst Elite 540MB/s - $113350
+2026-01-26 11:26:03,331 - INFO - Se encontraron 71 componentes compatibles para la categoria fuente.
+2026-01-26 11:26:03,331 - INFO - Seleccionando fuente | Techo=6360.0 | Restante=10600
+2026-01-26 11:26:03,331 - WARNING - No hay fuente dentro del techo. Buscando el más barato posible.
+2026-01-26 11:26:03,331 - ERROR - No se pudo seleccionar fuente. Presupuesto insuficiente.
+2026-01-26 11:26:31,990 - INFO - Se encontraron 155 componentes compatibles para la categoria gabinete.
+2026-01-26 11:26:31,990 - INFO - Seleccionando gabinete | Techo=10600.0 | Restante=10600
+2026-01-26 11:26:31,990 - WARNING - No hay gabinete dentro del techo. Buscando el más barato posible.
+2026-01-26 11:26:31,990 - ERROR - No se pudo seleccionar gabinete. Presupuesto insuficiente.
+2026-01-26 11:26:34,695 - INFO - ================ Computadora armada para el perfil: PC orientada a juegos =================
+2026-01-26 11:26:34,695 - INFO - ================ Armando computadoras para el perfil: PC de oficina / estudio con presupuesto 1300000 =================
+2026-01-26 11:26:34,696 - INFO - ====== WebDriver manager ======
+2026-01-26 11:26:36,494 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-26 11:26:37,063 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-26 11:26:37,647 - INFO - Driver [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\144.0.7559.96\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-26 11:26:40,514 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-26 11:26:46,942 - INFO - Se encontraron 73 componentes compatibles para la categoria procesador.
+2026-01-26 11:26:46,942 - INFO - Seleccionando procesador | Techo=390000.0 | Restante=1300000
+2026-01-26 11:26:50,683 - INFO - Componente seleccionado para procesador: Procesador AMD Ryzen 5 9600X 5.4GHz Turbo AM5 - No Incluye Cooler - $382250
+2026-01-26 11:26:54,963 - INFO - Se encontraron 47 componentes compatibles para la categoria mother.
+2026-01-26 11:26:54,963 - INFO - Seleccionando mother | Techo=235992.85714285716 | Restante=917750
+2026-01-26 11:26:58,060 - INFO - Componente seleccionado para mother: Mother ASUS PRIME B850M-K AM5 DDR5 - $225100
+2026-01-26 11:26:58,876 - INFO - Se encontraron 6 componentes compatibles para la categoria memoria.
+2026-01-26 11:26:58,876 - INFO - Seleccionando memoria | Techo=199802.8846153846 | Restante=692650
+2026-01-26 11:26:58,876 - WARNING - No hay memoria dentro del techo. Buscando el más barato posible.
+2026-01-26 11:27:01,246 - INFO - Componente seleccionado para memoria: Memoria Kingston DDR5 16GB 5600MHz KVR CL46 - $337600
+2026-01-26 11:27:03,207 - INFO - Se encontraron 29 componentes compatibles para la categoria placa de video.
+2026-01-26 11:27:03,207 - INFO - Seleccionando placa de video | Techo=0.0 | Restante=355050
+2026-01-26 11:27:03,207 - WARNING - No hay placa de video dentro del techo. Buscando el más barato posible.
+2026-01-26 11:27:05,375 - INFO - Componente seleccionado para placa de video: Placa de Video Asrock Radeon RX 550 2GB GDDR5 Phantom Gaming - $87800
+2026-01-26 11:36:54,365 - INFO - ================ Armando computadoras para el perfil: PC orientada a juegos con presupuesto 500000 =================
+2026-01-26 11:36:54,368 - INFO - ====== WebDriver manager ======
+2026-01-26 11:36:56,882 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-26 11:36:57,579 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-26 11:36:58,221 - INFO - Driver [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\144.0.7559.96\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-26 11:37:01,829 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-26 11:37:08,664 - INFO - Se encontraron 73 componentes compatibles para la categoria procesador.
+2026-01-26 11:37:08,665 - INFO - Seleccionando procesador | Techo=110000.0 | Restante=500000
+2026-01-26 11:37:09,224 - INFO - Apareció un modal y fue cerrado.
+2026-01-26 11:37:09,239 - INFO - Componente seleccionado para procesador: Procesador AMD Ryzen 3 4100 + Wraith Stealth Cooler AM4 - $99800
+2026-01-26 11:37:12,964 - INFO - Se encontraron 17 componentes compatibles para la categoria mother.
+2026-01-26 11:37:12,964 - INFO - Seleccionando mother | Techo=66700.0 | Restante=400200
+2026-01-26 11:37:12,965 - WARNING - No hay mother dentro del techo. Buscando el mas barato posible.
+2026-01-26 11:37:16,024 - INFO - Componente seleccionado para mother: Mother Asrock A520M-HDV AM4 - $78250
+2026-01-26 11:37:17,261 - INFO - Se encontraron 13 componentes compatibles para la categoria memoria.
+2026-01-26 11:37:17,261 - INFO - Seleccionando memoria | Techo=49530.769230769234 | Restante=321950
+2026-01-26 11:37:17,261 - WARNING - No hay memoria dentro del techo. Buscando el mas barato posible.
+2026-01-26 11:37:19,640 - INFO - Componente seleccionado para memoria: Memoria Kingston DDR4 8GB 3200MHz CL22 KVR32N22S6/8 - $103550
+2026-01-26 11:37:21,297 - INFO - Se encontraron 29 componentes compatibles para la categoria placa de video.
+2026-01-26 11:37:21,297 - INFO - Seleccionando placa de video | Techo=138981.81818181818 | Restante=218400
+2026-01-26 11:37:23,532 - INFO - Componente seleccionado para placa de video: Placa de Video Asrock Radeon RX 550 2GB GDDR5 Phantom Gaming - $87800
+2026-01-26 11:37:24,250 - INFO - Se encontraron 15 componentes compatibles para la categoria almacenamiento.
+2026-01-26 11:37:24,250 - INFO - Seleccionando almacenamiento | Techo=65300.0 | Restante=130600
+2026-01-26 11:37:24,250 - WARNING - No hay almacenamiento dentro del techo. Buscando el mas barato posible.
+2026-01-26 11:37:26,688 - INFO - Componente seleccionado para almacenamiento: Disco Solido SSD Patriot 480GB Burst Elite 540MB/s - $113350
+2026-01-26 11:37:31,674 - INFO - Se encontraron 71 componentes compatibles para la categoria fuente.
+2026-01-26 11:37:31,674 - INFO - Seleccionando fuente | Techo=10350.0 | Restante=17250
+2026-01-26 11:37:31,674 - WARNING - No hay fuente dentro del techo. Buscando el mas barato posible.
+2026-01-26 11:37:31,674 - ERROR - No se pudo seleccionar fuente. Presupuesto insuficiente.
+2026-01-26 11:37:59,542 - INFO - Se encontraron 155 componentes compatibles para la categoria gabinete.
+2026-01-26 11:37:59,542 - INFO - Seleccionando gabinete | Techo=17250.0 | Restante=17250
+2026-01-26 11:37:59,542 - WARNING - No hay gabinete dentro del techo. Buscando el mas barato posible.
+2026-01-26 11:37:59,542 - ERROR - No se pudo seleccionar gabinete. Presupuesto insuficiente.
+2026-01-26 11:38:02,218 - INFO - ================ Computadora armada para el perfil: PC orientada a juegos =================
+2026-01-26 11:38:02,218 - INFO - ================ Armando computadoras para el perfil: PC de oficina / estudio con presupuesto 1300000 =================
+2026-01-26 11:38:02,219 - INFO - ====== WebDriver manager ======
+2026-01-26 11:38:04,024 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-26 11:38:04,581 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-26 11:38:05,130 - INFO - Driver [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\144.0.7559.96\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-26 11:38:07,733 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-26 11:38:13,866 - INFO - Se encontraron 73 componentes compatibles para la categoria procesador.
+2026-01-26 11:38:13,866 - INFO - Seleccionando procesador | Techo=390000.0 | Restante=1300000
+2026-01-26 11:38:17,454 - INFO - Componente seleccionado para procesador: Procesador AMD Ryzen 5 9600 5.2GHz Turbo AM5 - $384600
+2026-01-26 11:38:22,384 - INFO - Se encontraron 47 componentes compatibles para la categoria mother.
+2026-01-26 11:38:22,384 - INFO - Seleccionando mother | Techo=235388.57142857145 | Restante=915400
+2026-01-26 11:38:25,105 - INFO - Componente seleccionado para mother: Mother ASUS PRIME B840M-A AM5 DDR5 - $215900
+2026-01-26 11:38:25,910 - INFO - Se encontraron 6 componentes compatibles para la categoria memoria.
+2026-01-26 11:38:25,911 - INFO - Seleccionando memoria | Techo=201778.84615384613 | Restante=699500
+2026-01-26 11:38:25,911 - WARNING - No hay memoria dentro del techo. Buscando el mas barato posible.
+2026-01-26 11:38:28,248 - INFO - Componente seleccionado para memoria: Memoria Kingston DDR5 16GB 5600MHz KVR CL46 - $337600
+2026-01-26 11:38:29,954 - INFO - Se encontraron 29 componentes compatibles para la categoria placa de video.
+2026-01-26 11:38:29,954 - INFO - Seleccionando placa de video | Techo=0.0 | Restante=361900
+2026-01-26 11:38:29,954 - WARNING - No hay placa de video dentro del techo. Buscando el mas barato posible.
+2026-01-26 11:38:32,348 - INFO - Componente seleccionado para placa de video: Placa de Video Asrock Radeon RX 550 2GB GDDR5 Phantom Gaming - $87800
+2026-01-26 11:38:33,063 - INFO - Se encontraron 15 componentes compatibles para la categoria almacenamiento.
+2026-01-26 11:38:33,063 - INFO - Seleccionando almacenamiento | Techo=111121.62162162161 | Restante=274100
+2026-01-26 11:38:33,064 - WARNING - No hay almacenamiento dentro del techo. Buscando el mas barato posible.
+2026-01-26 11:38:35,461 - INFO - Componente seleccionado para almacenamiento: Disco Solido SSD Patriot 480GB Burst Elite 540MB/s - $113350
+2026-01-26 11:38:40,191 - INFO - Se encontraron 71 componentes compatibles para la categoria fuente.
+2026-01-26 11:38:40,191 - INFO - Seleccionando fuente | Techo=87681.81818181818 | Restante=160750
+2026-01-26 11:38:43,267 - INFO - Componente seleccionado para fuente: Fuente Antec 750W 80 Plus Bronze ATX 3.1 PCIe 5.1 CSK750DC AR - $80300
+2026-01-26 11:39:06,985 - INFO - Se encontraron 154 componentes compatibles para la categoria gabinete.
+2026-01-26 11:39:06,985 - INFO - Seleccionando gabinete | Techo=80450.0 | Restante=80450
+2026-01-26 11:39:10,285 - INFO - Componente seleccionado para gabinete: Gabinete XYZ Titanium Lite Black 6x120mm ARGB Fans Vidrio Templado - $73750
+2026-01-26 11:39:12,543 - INFO - ================ Computadora armada para el perfil: PC de oficina / estudio =================
+2026-01-26 11:39:12,543 - INFO - ====== WebDriver manager ======
+2026-01-26 11:39:14,256 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-26 11:39:14,809 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-26 11:39:15,353 - INFO - Driver [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\144.0.7559.96\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-26 11:39:17,986 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-26 11:39:23,852 - INFO - Se encontraron 73 componentes compatibles para la categoria procesador.
+2026-01-26 11:39:23,852 - INFO - Seleccionando procesador | Techo=390000.0 | Restante=1300000
+2026-01-26 11:39:27,309 - INFO - Componente seleccionado para procesador: Procesador AMD Ryzen 5 9600X 5.4GHz Turbo AM5 - No Incluye Cooler - $382250
+2026-01-26 11:39:31,510 - INFO - Se encontraron 47 componentes compatibles para la categoria mother.
+2026-01-26 11:39:31,511 - INFO - Seleccionando mother | Techo=235992.85714285716 | Restante=917750
+2026-01-26 11:39:34,439 - INFO - Componente seleccionado para mother: Mother ASUS PRIME B840M-A AM5 DDR5 - $215900
+2026-01-26 11:39:35,228 - INFO - Se encontraron 6 componentes compatibles para la categoria memoria.
+2026-01-26 11:39:35,228 - INFO - Seleccionando memoria | Techo=202456.73076923075 | Restante=701850
+2026-01-26 11:39:35,228 - WARNING - No hay memoria dentro del techo. Buscando el mas barato posible.
+2026-01-26 11:39:37,551 - INFO - Componente seleccionado para memoria: Memoria Kingston DDR5 16GB 5600MHz KVR CL46 - $337600
+2026-01-26 11:39:39,185 - INFO - Se encontraron 29 componentes compatibles para la categoria placa de video.
+2026-01-26 11:39:39,185 - INFO - Seleccionando placa de video | Techo=0.0 | Restante=364250
+2026-01-26 11:39:39,185 - WARNING - No hay placa de video dentro del techo. Buscando el mas barato posible.
+2026-01-26 11:39:41,531 - INFO - Componente seleccionado para placa de video: Placa de Video Asrock Radeon RX 550 2GB GDDR5 Phantom Gaming - $87800
+2026-01-26 11:39:42,318 - INFO - Se encontraron 15 componentes compatibles para la categoria almacenamiento.
+2026-01-26 11:39:42,318 - INFO - Seleccionando almacenamiento | Techo=112074.32432432432 | Restante=276450
+2026-01-26 11:39:42,318 - WARNING - No hay almacenamiento dentro del techo. Buscando el mas barato posible.
+2026-01-26 11:39:44,698 - INFO - Componente seleccionado para almacenamiento: Disco Solido SSD Patriot 480GB Burst Elite 540MB/s - $113350
+2026-01-26 11:39:49,457 - INFO - Se encontraron 71 componentes compatibles para la categoria fuente.
+2026-01-26 11:39:49,457 - INFO - Seleccionando fuente | Techo=88963.63636363635 | Restante=163100
+2026-01-26 11:39:52,575 - INFO - Componente seleccionado para fuente: Fuente Antec 750W 80 Plus Bronze ATX 3.1 PCIe 5.1 CSK750DC AR - $80300
+2026-01-26 11:40:16,778 - INFO - Se encontraron 154 componentes compatibles para la categoria gabinete.
+2026-01-26 11:40:16,778 - INFO - Seleccionando gabinete | Techo=82800.0 | Restante=82800
+2026-01-26 11:40:19,967 - INFO - Componente seleccionado para gabinete: Gabinete XPG Valor Air Plus Black 4x120mm ARGB Fans Vidrio Templado - $79300
+2026-01-26 11:40:22,217 - INFO - ================ Computadora armada para el perfil: PC de oficina / estudio =================
+2026-01-26 11:50:33,640 - INFO - ================ Armando computadoras para el perfil: Trabajo pesado / render / edición con presupuesto 900000 =================
+2026-01-26 11:50:33,640 - INFO - ====== WebDriver manager ======
+2026-01-26 11:50:35,388 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-26 11:50:35,972 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-26 11:50:36,508 - INFO - Driver [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\144.0.7559.96\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-26 11:50:39,271 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-26 11:50:45,466 - INFO - Se encontraron 74 componentes compatibles para la categoria procesador.
+2026-01-26 11:50:45,466 - INFO - Seleccionando procesador | Techo=270000.0 | Restante=900000
+2026-01-26 11:50:48,528 - INFO - Componente seleccionado para procesador: Procesador AMD Ryzen 5 5600GT 4.6GHz Turbo AM4 + Wraith Stealth Cooler - $239700
+2026-01-26 11:50:50,900 - INFO - Se encontraron 17 componentes compatibles para la categoria mother.
+2026-01-26 11:50:50,900 - INFO - Seleccionando mother | Techo=141492.85714285716 | Restante=660300
+2026-01-26 11:50:54,279 - INFO - Componente seleccionado para mother: Mother MSI B550M-A PRO AM4 - $115750
+2026-01-26 11:50:55,332 - INFO - Se encontraron 13 componentes compatibles para la categoria memoria.
+2026-01-26 11:50:55,333 - INFO - Seleccionando memoria | Techo=148513.63636363635 | Restante=544550
+2026-01-26 11:50:57,732 - INFO - Componente seleccionado para memoria: Memoria Team DDR4 8GB 3200MHz T-Force Vulcan Z Grey CL16 - $109550
+2026-01-26 11:50:59,482 - INFO - Se encontraron 31 componentes compatibles para la categoria placa de video.
+2026-01-26 11:50:59,482 - INFO - Seleccionando placa de video | Techo=271875.0 | Restante=435000
+2026-01-26 11:51:01,726 - INFO - Componente seleccionado para placa de video: Placa de Video Asrock Radeon RX 550 2GB GDDR5 Phantom Gaming - $88100
+2026-01-26 11:51:02,463 - INFO - Se encontraron 15 componentes compatibles para la categoria almacenamiento.
+2026-01-26 11:51:02,463 - INFO - Seleccionando almacenamiento | Techo=231266.6666666667 | Restante=346900
+2026-01-26 11:51:05,026 - INFO - Componente seleccionado para almacenamiento: Disco Sólido SSD MSI 960GB Spatium S270 500MB/s - $209600
+2026-01-26 11:51:09,916 - INFO - Se encontraron 71 componentes compatibles para la categoria fuente.
+2026-01-26 11:51:09,916 - INFO - Seleccionando fuente | Techo=82380.0 | Restante=137300
+2026-01-26 11:51:13,140 - INFO - Componente seleccionado para fuente: Fuente Thermaltake Smart BX1 650W RGB 80 Plus Bronze - $76050
+2026-01-26 11:51:36,915 - INFO - Se encontraron 153 componentes compatibles para la categoria gabinete.
+2026-01-26 11:51:36,915 - INFO - Seleccionando gabinete | Techo=61250.0 | Restante=61250
+2026-01-26 11:51:40,070 - INFO - Componente seleccionado para gabinete: Gabinete Antec AX83 RGB ELITE Black Mesh 4x120mm RGB Fixed Fans Vidrio Templado - $60700
+2026-01-26 11:51:42,390 - INFO - ================ Computadora armada para el perfil: Trabajo pesado / render / edición =================
+2026-01-26 11:52:06,206 - INFO - ================ Armando computadoras para el perfil: Trabajo pesado / render / edición con presupuesto 900000 =================
+2026-01-26 11:52:06,207 - INFO - ====== WebDriver manager ======
+2026-01-26 11:52:07,979 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-26 11:52:08,528 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-26 11:52:09,070 - INFO - Driver [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\144.0.7559.96\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-26 11:52:12,992 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-26 11:52:19,184 - INFO - Se encontraron 74 componentes compatibles para la categoria procesador.
+2026-01-26 11:52:19,184 - INFO - Seleccionando procesador | Techo=270000.0 | Restante=900000
+2026-01-26 11:52:20,012 - INFO - Apareció un modal y fue cerrado.
+2026-01-26 11:52:20,027 - INFO - Componente seleccionado para procesador: Procesador AMD Ryzen 5 8400F 4.7GHz Turbo AM5 Wraith Stealth Cooler - $255850
+2026-01-26 11:52:25,039 - INFO - Se encontraron 47 componentes compatibles para la categoria mother.
+2026-01-26 11:52:25,039 - INFO - Seleccionando mother | Techo=138032.14285714287 | Restante=644150
+2026-01-26 11:52:27,627 - INFO - Componente seleccionado para mother: Mother ASUS PRIME A620M-K AM5 DDR5 - $134450
+2026-01-26 11:52:28,473 - INFO - Se encontraron 7 componentes compatibles para la categoria memoria.
+2026-01-26 11:52:28,473 - INFO - Seleccionando memoria | Techo=139009.0909090909 | Restante=509700
+2026-01-26 11:52:28,473 - WARNING - No hay memoria dentro del techo. Buscando el mas barato posible.
+2026-01-26 11:52:30,800 - INFO - Componente seleccionado para memoria: Memoria Kingston DDR5 16GB 5600MHz KVR CL46 - $338750
+2026-01-26 11:52:32,535 - INFO - Se encontraron 31 componentes compatibles para la categoria placa de video.
+2026-01-26 11:52:32,535 - INFO - Seleccionando placa de video | Techo=106843.75 | Restante=170950
+2026-01-26 11:52:34,858 - INFO - Componente seleccionado para placa de video: Placa de Video Asrock Radeon RX 550 2GB GDDR5 Phantom Gaming - $88100
+2026-01-26 11:52:35,488 - INFO - Se encontraron 15 componentes compatibles para la categoria almacenamiento.
+2026-01-26 11:52:35,488 - INFO - Seleccionando almacenamiento | Techo=55233.33333333334 | Restante=82850
+2026-01-26 11:52:35,488 - WARNING - No hay almacenamiento dentro del techo. Buscando el mas barato posible.
+2026-01-26 11:52:35,488 - ERROR - No se pudo seleccionar almacenamiento. Presupuesto insuficiente.
+2026-01-26 11:52:40,709 - INFO - Se encontraron 71 componentes compatibles para la categoria fuente.
+2026-01-26 11:52:40,709 - INFO - Seleccionando fuente | Techo=49710.0 | Restante=82850
+2026-01-26 11:52:40,709 - WARNING - No hay fuente dentro del techo. Buscando el mas barato posible.
+2026-01-26 11:52:43,656 - INFO - Componente seleccionado para fuente: Fuente Cougar 600W 80 Plus Bronze ATLAS - $64800
+2026-01-26 11:53:06,947 - INFO - Se encontraron 153 componentes compatibles para la categoria gabinete.
+2026-01-26 11:53:06,947 - INFO - Seleccionando gabinete | Techo=18050.0 | Restante=18050
+2026-01-26 11:53:06,947 - WARNING - No hay gabinete dentro del techo. Buscando el mas barato posible.
+2026-01-26 11:53:06,947 - ERROR - No se pudo seleccionar gabinete. Presupuesto insuficiente.
+2026-01-26 11:53:09,810 - INFO - ================ Computadora armada para el perfil: Trabajo pesado / render / edición =================
+2026-01-26 12:25:29,048 - INFO - ================ Armando computadoras para el perfil: Trabajo pesado / render / edición con presupuesto 900000 =================
+2026-01-26 12:25:29,051 - INFO - ====== WebDriver manager ======
+2026-01-26 12:25:32,583 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-26 12:25:33,388 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-26 12:25:33,940 - INFO - Driver [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\144.0.7559.96\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-26 12:25:37,924 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-26 12:25:43,881 - INFO - Se encontraron 74 componentes compatibles para la categoria procesador.
+2026-01-26 12:25:43,882 - INFO - Seleccionando procesador | Techo=270000.0 | Restante=900000
+2026-01-26 12:25:47,025 - INFO - Componente seleccionado para procesador: Procesador AMD Ryzen 5 5600GT 4.6GHz Turbo AM4 + Wraith Stealth Cooler - $239700
+2026-01-26 12:25:49,325 - INFO - Se encontraron 17 componentes compatibles para la categoria mother.
+2026-01-26 12:25:49,325 - INFO - Seleccionando mother | Techo=141492.85714285716 | Restante=660300
+2026-01-26 12:25:52,044 - INFO - Componente seleccionado para mother: Mother MSI B550M-A PRO AM4 - $115750
+2026-01-26 12:25:53,119 - INFO - Se encontraron 13 componentes compatibles para la categoria memoria.
+2026-01-26 12:25:53,120 - INFO - Seleccionando memoria | Techo=148513.63636363635 | Restante=544550
+2026-01-26 12:25:55,510 - INFO - Componente seleccionado para memoria: Memoria Team DDR4 8GB 3200Mhz Vulcan ASUS TUF Alliance CL16 - $109550
+2026-01-26 12:25:57,235 - INFO - Se encontraron 31 componentes compatibles para la categoria placa de video.
+2026-01-26 12:25:57,236 - INFO - Seleccionando placa de video | Techo=271875.0 | Restante=435000
+2026-01-26 12:25:59,470 - INFO - Componente seleccionado para placa de video: Placa de Video Asrock Radeon RX 550 2GB GDDR5 Phantom Gaming - $88100
+2026-01-26 12:26:00,147 - INFO - Se encontraron 15 componentes compatibles para la categoria almacenamiento.
+2026-01-26 12:26:00,148 - INFO - Seleccionando almacenamiento | Techo=231266.6666666667 | Restante=346900
+2026-01-26 12:26:02,567 - INFO - Componente seleccionado para almacenamiento: Disco Sólido SSD MSI 960GB Spatium S270 500MB/s - $209600
+2026-01-26 12:26:07,438 - INFO - Se encontraron 71 componentes compatibles para la categoria fuente.
+2026-01-26 12:26:07,438 - INFO - Seleccionando fuente | Techo=82380.0 | Restante=137300
+2026-01-26 12:26:10,535 - INFO - Componente seleccionado para fuente: Fuente Thermaltake Smart BX1 650W RGB 80 Plus Bronze - $76050
+2026-01-26 12:26:34,194 - INFO - Se encontraron 153 componentes compatibles para la categoria gabinete.
+2026-01-26 12:26:34,194 - INFO - Seleccionando gabinete | Techo=61250.0 | Restante=61250
+2026-01-26 12:26:37,247 - INFO - Componente seleccionado para gabinete: Gabinete Antec NX292 ELITE Fixed RGB MESH White 3x120mm RGB Fans + 1x120mm Fan Vidrio Templado - $59850
+2026-01-26 12:26:39,615 - INFO - ================ Computadora armada para el perfil: Trabajo pesado / render / edición =================
