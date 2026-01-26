@@ -70,7 +70,7 @@ Los resultados se exportan a un archivo Excel:
 ---
 
 ## 📁 Estructura del proyecto
-
+```
 armado-pc/
 │
 ├── main.py
@@ -97,4 +97,4 @@ armado-pc/
 │ └── proceso.log
 │
 └── README.md
-
+```
