@@ -854,3 +854,101 @@
 2026-01-26 12:26:34,194 - INFO - Seleccionando gabinete | Techo=61250.0 | Restante=61250
 2026-01-26 12:26:37,247 - INFO - Componente seleccionado para gabinete: Gabinete Antec NX292 ELITE Fixed RGB MESH White 3x120mm RGB Fans + 1x120mm Fan Vidrio Templado - $59850
 2026-01-26 12:26:39,615 - INFO - ================ Computadora armada para el perfil: Trabajo pesado / render / edición =================
+2026-01-30 12:49:41,068 - INFO - \u2705 Formulario cargado correctamente
+2026-01-30 12:49:41,069 - INFO - Procesando perfil: thiago, Presupuesto: 1500000, Cantidad: 1
+2026-01-30 12:49:41,070 - INFO - Respuestas cargadas correctamente para definir el perfil
+2026-01-30 12:52:45,057 - INFO - \u2705 Formulario cargado correctamente
+2026-01-30 12:52:45,057 - INFO - Procesando perfil: thiago, Presupuesto: 1500000, Cantidad: 1
+2026-01-30 12:52:45,057 - INFO - Respuestas cargadas correctamente para definir el perfil
+2026-01-30 12:53:54,479 - INFO - \u2705 Formulario cargado correctamente
+2026-01-30 12:53:54,479 - INFO - Procesando perfil: thiago, Presupuesto: 1500000, Cantidad: 1
+2026-01-30 12:53:54,479 - INFO - Respuestas cargadas correctamente para definir el perfil
+2026-01-30 12:58:07,627 - INFO - \u2705 Formulario cargado correctamente
+2026-01-30 12:58:07,628 - INFO - Procesando perfil: thiago, Presupuesto: 1500000, Cantidad: 1
+2026-01-30 12:58:07,628 - INFO - Respuestas cargadas correctamente para definir el perfil
+2026-01-30 13:13:18,603 - INFO - \u2705 Formulario cargado correctamente
+2026-01-30 13:13:18,604 - INFO - Procesando perfil: thiago, Presupuesto: 1500000, Cantidad: 1
+2026-01-30 13:13:18,607 - INFO - Respuestas cargadas correctamente para definir el perfil
+2026-01-30 13:14:32,834 - INFO - \u2705 Formulario cargado correctamente
+2026-01-30 13:14:32,834 - INFO - Procesando perfil: thiago, Presupuesto: 1500000, Cantidad: 1
+2026-01-30 13:14:32,835 - INFO - Respuestas cargadas correctamente para definir el perfil
+2026-01-30 13:16:38,348 - INFO - \u2705 Formulario cargado correctamente
+2026-01-30 13:16:38,349 - INFO - Procesando perfil: thiago, Presupuesto: 1500000, Cantidad: 1
+2026-01-30 13:16:38,349 - INFO - Respuestas cargadas correctamente para definir el perfil
+2026-01-30 13:16:38,349 - ERROR - \u2717 Error al inicializar el cliente de Gemini: Missing key inputs argument! To use the Google AI API, provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2026-01-30 13:18:32,853 - INFO - \u2705 Formulario cargado correctamente
+2026-01-30 13:18:32,854 - INFO - Procesando perfil: thiago, Presupuesto: 1500000, Cantidad: 1
+2026-01-30 13:18:32,854 - INFO - Respuestas cargadas correctamente para definir el perfil
+2026-01-30 13:18:34,981 - INFO - AFC is enabled with max remote calls: 10.
+2026-01-30 13:18:38,251 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-01-30 13:19:16,479 - INFO - \u2705 Formulario cargado correctamente
+2026-01-30 13:19:16,480 - INFO - Procesando perfil: thiago, Presupuesto: 1500000, Cantidad: 1
+2026-01-30 13:19:16,480 - INFO - Respuestas cargadas correctamente para definir el perfil
+2026-01-30 13:19:17,569 - INFO - AFC is enabled with max remote calls: 10.
+2026-01-30 13:19:22,627 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-01-30 13:19:22,630 - INFO - Perfil definido correctamente: gaming
+2026-01-30 13:19:22,630 - INFO - \u2705 Todos los perfiles de formularios fueron procesados correctamente
+2026-01-30 13:20:15,767 - INFO - \u2705 Formulario cargado correctamente
+2026-01-30 13:20:15,768 - INFO - Procesando perfil: thiago, Presupuesto: 1500000, Cantidad: 1
+2026-01-30 13:20:15,768 - INFO - Respuestas cargadas correctamente para definir el perfil
+2026-01-30 13:20:16,980 - INFO - AFC is enabled with max remote calls: 10.
+2026-01-30 13:20:21,765 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-01-30 13:20:21,767 - INFO - Perfil definido correctamente: gaming
+2026-01-30 13:20:21,767 - INFO - \u2705 Todos los perfiles de formularios fueron procesados correctamente
+2026-01-30 13:21:18,682 - INFO - \u2705 Formulario cargado correctamente
+2026-01-30 13:21:18,682 - INFO - Procesando perfil: thiago, Presupuesto: 1500000, Cantidad: 1
+2026-01-30 13:21:18,683 - INFO - Respuestas cargadas correctamente para definir el perfil
+2026-01-30 13:21:19,771 - INFO - AFC is enabled with max remote calls: 10.
+2026-01-30 13:21:22,878 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-01-30 13:21:22,880 - INFO - Perfil definido correctamente: gaming
+2026-01-30 13:21:22,880 - INFO - \u2705 Todos los perfiles de formularios fueron procesados correctamente
+2026-01-30 13:22:52,096 - INFO - \u2705 Formulario cargado correctamente
+2026-01-30 13:22:52,097 - INFO - Procesando perfil: thiago, Presupuesto: 1500000, Cantidad: 1
+2026-01-30 13:22:52,098 - INFO - Respuestas cargadas correctamente para definir el perfil
+2026-01-30 13:22:53,176 - INFO - AFC is enabled with max remote calls: 10.
+2026-01-30 13:22:56,695 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-01-30 13:22:56,697 - INFO - Perfil definido correctamente: gaming
+2026-01-30 13:22:56,697 - INFO - \u2705 Todos los perfiles de formularios fueron procesados correctamente. Iniciando armado de pcs...
+2026-01-30 13:23:46,937 - INFO - \u2705 Formulario cargado correctamente
+2026-01-30 13:23:46,938 - INFO - Procesando perfil: thiago, Presupuesto: 1500000, Cantidad: 1
+2026-01-30 13:23:46,938 - INFO - Respuestas cargadas correctamente para definir el perfil
+2026-01-30 13:23:48,037 - INFO - AFC is enabled with max remote calls: 10.
+2026-01-30 13:23:51,628 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-01-30 13:23:51,630 - INFO - Perfil definido correctamente: gaming
+2026-01-30 13:23:51,631 - INFO - \u2705 Todos los perfiles de formularios fueron procesados correctamente. Iniciando armado de pcs...
+2026-01-30 13:23:51,631 - INFO - ================ Armando computadoras para el perfil: PC orientada a juegos con presupuesto 1500000 =================
+2026-01-30 13:23:51,632 - INFO - ====== WebDriver manager ======
+2026-01-30 13:23:54,021 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-30 13:23:54,684 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-30 13:23:55,244 - INFO - There is no [win64] chromedriver "144.0.7559.109" for browser google-chrome "144.0.7559" in cache
+2026-01-30 13:23:55,244 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-30 13:23:56,502 - INFO - WebDriver version 144.0.7559.109 selected
+2026-01-30 13:23:56,506 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.109/win32/chromedriver-win32.zip
+2026-01-30 13:23:56,506 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.109/win32/chromedriver-win32.zip
+2026-01-30 13:23:57,064 - INFO - Driver downloading response is 200
+2026-01-30 13:23:57,406 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-30 13:23:58,063 - INFO - Driver has been saved in cache [C:\Users\thg_7\.wdm\drivers\chromedriver\win64\144.0.7559.109]
+2026-01-30 13:24:02,643 - INFO - \u2705 CompraGamer cargó correctamente
+2026-01-30 13:24:09,113 - INFO - Se encontraron 75 componentes compatibles para la categoria procesador.
+2026-01-30 13:24:09,113 - INFO - Seleccionando procesador | Techo=330000.0 | Restante=1500000
+2026-01-30 13:24:12,886 - INFO - Componente seleccionado para procesador: Procesador AMD Ryzen 5 8600G 5.0GHz Turbo AM5 + Wraith Stealth Cooler - $291950
+2026-01-30 13:24:21,466 - INFO - Se encontraron 66 componentes compatibles para la categoria mother.
+2026-01-30 13:24:21,466 - INFO - Seleccionando mother | Techo=201341.66666666666 | Restante=1208050
+2026-01-30 13:24:24,500 - INFO - Componente seleccionado para mother: Mother Asrock B650M-HDV/M.2 WHITE AM5 DDR5 - $170700
+2026-01-30 13:24:26,926 - INFO - Se encontraron 19 componentes compatibles para la categoria memoria.
+2026-01-30 13:24:26,927 - INFO - Seleccionando memoria | Techo=159592.3076923077 | Restante=1037350
+2026-01-30 13:24:26,927 - WARNING - No hay memoria dentro del techo. Buscando el mas barato posible.
+2026-01-30 13:24:29,450 - INFO - Componente seleccionado para memoria: Memoria Corsair DDR5 16GB 5600MHz Vengeance CL40 Intel XMP 3.0 BULK - $301400
+2026-01-30 13:24:30,966 - INFO - Se encontraron 28 componentes compatibles para la categoria placa de video.
+2026-01-30 13:24:30,966 - INFO - Seleccionando placa de video | Techo=468331.8181818182 | Restante=735950
+2026-01-30 13:24:33,377 - INFO - Componente seleccionado para placa de video: Placa de Video Asrock Radeon RX 550 2GB GDDR5 Phantom Gaming - $88400
+2026-01-30 13:24:35,352 - INFO - Se encontraron 35 componentes compatibles para la categoria almacenamiento.
+2026-01-30 13:24:35,353 - INFO - Seleccionando almacenamiento | Techo=323775.0 | Restante=647550
+2026-01-30 13:24:38,317 - INFO - Componente seleccionado para almacenamiento: Disco Solido SSD M.2 Team 1TB MP44Q 7000MB/s NVMe Gen4 PCI-E x4 - $276800
+2026-01-30 13:24:43,143 - INFO - Se encontraron 71 componentes compatibles para la categoria fuente.
+2026-01-30 13:24:43,143 - INFO - Seleccionando fuente | Techo=222450.0 | Restante=370750
+2026-01-30 13:24:47,293 - INFO - Componente seleccionado para fuente: Fuente Asrock 1000W 80 Plus Gold Steel Legend Full Modular ATX 3.1 PCIe 5.1 Cybenetics Platinum - $218950
+2026-01-30 13:25:10,213 - INFO - Se encontraron 151 componentes compatibles para la categoria gabinete.
+2026-01-30 13:25:10,213 - INFO - Seleccionando gabinete | Techo=151800.0 | Restante=151800
+2026-01-30 13:25:14,879 - INFO - Componente seleccionado para gabinete: Gabinete Phanteks XT Pro Ultra 4x140mm DRGB Fans USB-C Mesh White - $140250
+2026-01-30 13:25:17,156 - INFO - ================ Computadora armada para el perfil: PC orientada a juegos =================

@@ -1,5 +1,5 @@
 from menu_carga.manual import menu_carga_manual 
-from menu_carga.formulario import menu_carga_formulario
+from menu_carga.formulario import carga_formularios
 from config.colores import Colors
 import logging
 import os
@@ -26,7 +26,7 @@ def mostrar_menu():
                     menu_carga_manual()
                     break
                 case "2":
-                    menu_carga_formulario()
+                    carga_formularios()
                     break
                 case "3":
                     print(f"{Colors.GREEN}✅ Gracias por usar el sistema. Vuelva pronto!{Colors.RESET}")
