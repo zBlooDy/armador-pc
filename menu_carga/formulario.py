@@ -1,27 +1,22 @@
 import logging
 import pandas as pd
-from armador.armador_perfiles import carga_perfiles
+import gspread
 
+from armador.armador_perfiles import carga_perfiles
+from google.oauth2.service_account import Credentials
 from config.colores import Colors
 from config.perfiles import PERFILES
 from perfil.inferencia_perfil import definir_perfil
 
 def carga_formularios():
-    ruta = "formularios/resultados.csv"
 
-    # Leer csv que tiene el resultado del google forms
+    # Leer google sheet 
     print(f"{Colors.CYAN}⌛ Cargando respuestas de formulario, por favor espere...{Colors.RESET}\n")
     
-    try:
-        df = pd.read_csv(ruta)
-        logging.info("✅ Formulario cargado correctamente")
-    except Exception as e:
-        logging.error(f"✗ No se pudo cargar el formulario: {e}")
-        return
+    df = leer_google_sheet()
     
     perfiles = []
     
-    # Recorremos el df
     for _, fila in df.iterrows():
         nombre = fila.iloc[1]
         presupuesto = int(fila.iloc[2])
@@ -62,3 +57,29 @@ def construir_texto_respuestas(df, fila):
     return texto 
 
 
+
+def leer_google_sheet():
+    
+    sheet_id = "18RfGSNjimd84MT_FjP6HdgU5OOCukC-2LsiWLGLtiMw"
+    
+    scopes = [
+        "https://www.googleapis.com/auth/spreadsheets",
+        "https://www.googleapis.com/auth/drive"
+    ]
+
+    creds = Credentials.from_service_account_file(
+        "credenciales/google_sheets.json",
+        scopes=scopes
+    )
+
+    client = gspread.authorize(creds)
+
+    sheet = client.open_by_key(sheet_id).sheet1
+
+    data = sheet.get_all_records()
+
+    df = pd.DataFrame(data)
+
+    logging.info("✅ Google Sheet leída correctamente")
+
+    return df
